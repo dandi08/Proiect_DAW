@@ -1,0 +1,56 @@
+@import 'variables.scss';
+
+.header {
+    &__container {
+        width: 80%;
+        max-width: 1300px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__search {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        &--form {
+            display: flex;
+            border: 2px solid $gray-500;
+            border-radius: 20px;
+        }
+
+        &--input {
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
+            padding-left: 10px;
+            border-right: none;
+            border: none;
+        }
+
+        &--submit {
+            border: none;
+            border-radius: 20px;
+            width: 2rem;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            border-left: none;
+            background-color: $gray-500;
+        }
+    }
+}
+
+.main-header {
+    display: flex;
+    justify-content: center;
+    background-color: $gray-200;
+    border-bottom: 1px solid $gray-500;
+}
+
+
+
+svg {
+    height: 70%;
+}
