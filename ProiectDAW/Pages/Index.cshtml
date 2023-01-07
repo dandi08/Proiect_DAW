@@ -4,7 +4,17 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <a>salutare!!</a>
-    <h1>Hello, world!</h1>
+<div class="center">
+    <p>Do you want to add new news?</p>
+    <button><a asp-page="\AddNewsPage">Yes </a></button>
+    
 </div>
+
+@foreach(Models.News news in Model.News)
+{
+    <div class="text-center">
+        <h1><a asp-page="/NewsPage" asp-route-NewsId="@news.Id">@news.NewsTitle</a></h1>
+        <p>@news.Lead</p>
+        <p>Written by @news.Writer and published on @news.Date.ToString("dd-MM-yyyy"), in category: @news.SubCategory.Category.CategoryName, @news.SubCategory.SubCategoryName</p>
+    </div>
+}

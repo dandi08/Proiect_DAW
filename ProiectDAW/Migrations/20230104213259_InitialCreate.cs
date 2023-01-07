@@ -52,7 +52,7 @@ namespace ProiectDAW.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     NewsTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Lead = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Content = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Body = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Writer = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Date = table.Column<DateTime>(type: "datetime2", nullable: false),
                     SubCategoryId = table.Column<int>(type: "int", nullable: false)

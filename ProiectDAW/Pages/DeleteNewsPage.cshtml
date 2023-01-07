@@ -1,0 +1,13 @@
+﻿@page "{NewsId:int}"
+@model DeleteNewsPage
+@{
+}
+
+<div>
+    <form method="post">
+        <label>Are you sure you want to delete this news?</label>
+        <br>
+        <input type="submit" value="Submit" />
+        <button><a asp-page="\Index">Cancel </a></button>
+    </form>
+</div>
