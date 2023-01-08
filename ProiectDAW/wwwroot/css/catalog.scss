@@ -28,6 +28,7 @@ article {
             color: $gray-800;
             font-size: 1.25rem;
             font-weight: 600;
+            text-transform: capitalize;
         }
 
         &--text, &--notes {

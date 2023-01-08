@@ -22,6 +22,7 @@ article {
   color: #343a40;
   font-size: 1.25rem;
   font-weight: 600;
+  text-transform: capitalize;
 }
 .catalog__image--text, .catalog__image--notes {
   color: #495057;

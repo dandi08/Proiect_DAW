@@ -1,7 +1,11 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "Flxw8je4Vwqtvtl1dbiww2qbbzjuVkLzftVUQKVK0tA=",
+=======
+  "Hash": "nfEXqBSAfEafhp4IqcsL1I5kJDUHXoaA9FZCWqFqv/Y=",
+>>>>>>> 61569abc1f96baf6cab432c32161bde9f1dac8ce
 =======
   "Hash": "nfEXqBSAfEafhp4IqcsL1I5kJDUHXoaA9FZCWqFqv/Y=",
 >>>>>>> 61569abc1f96baf6cab432c32161bde9f1dac8ce
@@ -56,10 +60,14 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css",
+=======
+      "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css",
+>>>>>>> 61569abc1f96baf6cab432c32161bde9f1dac8ce
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/aside.css",
       "AssetKind": "All",
@@ -281,10 +289,14 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.scss",
+=======
+      "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css",
+>>>>>>> 61569abc1f96baf6cab432c32161bde9f1dac8ce
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/news.scss",
       "AssetKind": "All",
@@ -319,10 +331,14 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css.map",
+=======
+      "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css",
+>>>>>>> 61569abc1f96baf6cab432c32161bde9f1dac8ce
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/site.css.map",
       "AssetKind": "All",
