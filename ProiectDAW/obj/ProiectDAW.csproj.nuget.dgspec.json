@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
         "projectName": "ProiectDAW",
-        "projectPath": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
-        "packagesPath": "C:\\Users\\dandi08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\proiect DAW\\Proiect_DAW\\ProiectDAW\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dandi08\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +73,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
