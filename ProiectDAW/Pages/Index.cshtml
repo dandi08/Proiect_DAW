@@ -4,91 +4,17 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="main-container">
-    <div class="content">
-        <a class="category content__header">Cele mai importante stiri</a>
-        <div class="catalog">
-            <article>
-                <div class="catalog__image-wrapper">
-                    <a class="catalog__image">
-                        <img src="https://placekitten.com/200/250" />
-                    </a>
-                </div>
-
-                <div class="catalog__information">
-                    <a class="catalog__image--title">titlu</a>
-                    <a class="catalog__image--text">descriere</a>
-                    <a class="catalog__image--notes category">notes, something</a>
-                </div>
-            </article>
-            
-            <article>
-                <div class="catalog__image-wrapper">
-                    <a class="catalog__image">
-                        <img src="https://placekitten.com/200/250" />
-                    </a>
-                </div>
-
-                <div class="catalog__information">
-                    <a class="catalog__image--title">titlu</a>
-                    <a class="catalog__image--text">descriere</a>
-                    <a class="catalog__image--notes category">notes, something</a>
-                </div>
-            </article>
-
-            <article>
-                <div class="catalog__image-wrapper">
-                    <a class="catalog__image">
-                        <img src="https://placekitten.com/200/250" />
-                    </a>
-                </div>
-
-                <div class="catalog__information">
-                    <a class="catalog__image--title">titlu</a>
-                    <a class="catalog__image--text">descriere</a>
-                    <a class="catalog__image--notes category">notes, something</a>
-                </div>
-            </article>
-
-            <article>
-                <div class="catalog__image-wrapper">
-                    <a class="catalog__image">
-                        <img src="https://placekitten.com/200/250" />
-                    </a>
-                </div>
-
-                <div class="catalog__information">
-                    <a class="catalog__image--title">titlu</a>
-                    <a class="catalog__image--text">descriere</a>
-                    <a class="catalog__image--notes category">notes, something</a>
-                </div>
-            </article>
-
-            <article>
-                <div class="catalog__image-wrapper">
-                    <a class="catalog__image">
-                        <img src="https://placekitten.com/200/250" />
-                    </a>
-                </div>
-
-                <div class="catalog__information">
-                    <a class="catalog__image--title">titlu</a>
-                    <a class="catalog__image--text">descriere</a>
-                    <a class="catalog__image--notes category">notes, something</a>
-                </div>
-            </article>
-        </div>
-    </div>
-
-    <aside class="main-aside">
-        <div class="main-aside__title">
-            Stiri noi
-        </div>
-        <ul class="main-aside__content">
-            <li class="main-aside__item">repsect#1</li>
-            <li class="main-aside__item">repsect#1</li>
-            <li class="main-aside__item">repsect#1</li>
-        </ul>
-    </aside>
+<div class="center">
+    <p>Do you want to add new news?</p>
+    <button><a asp-page="\AddNewsPage">Yes </a></button>
+    
 </div>
 
+@foreach(Models.News news in Model.News)
+{
+    <div class="text-center">
+        <h1><a asp-page="/NewsPage" asp-route-NewsId="@news.Id">@news.NewsTitle</a></h1>
+        <p>@news.Lead</p>
+        <p>Written by @news.Writer and published on @news.Date.ToString("dd-MM-yyyy"), in category: @news.SubCategory.Category.CategoryName, @news.SubCategory.SubCategoryName</p>
+    </div>
+}
