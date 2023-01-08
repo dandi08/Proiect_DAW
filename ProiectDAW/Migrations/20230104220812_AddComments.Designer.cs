@@ -72,7 +72,7 @@ namespace ProiectDAW.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Content")
+                    b.Property<string>("Body")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

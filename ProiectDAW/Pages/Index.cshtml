@@ -4,6 +4,7 @@
     ViewData["Title"] = "Home page";
 }
 
+<<<<<<< HEAD
 <div class="main-container">
     <div class="content">
         <a class="category content__header">Cele mai importante stiri</a>
@@ -92,3 +93,19 @@
     </aside>
 </div>
 
+=======
+<div class="center">
+    <p>Do you want to add new news?</p>
+    <button><a asp-page="\AddNewsPage">Yes </a></button>
+    
+</div>
+
+@foreach(Models.News news in Model.News)
+{
+    <div class="text-center">
+        <h1><a asp-page="/NewsPage" asp-route-NewsId="@news.Id">@news.NewsTitle</a></h1>
+        <p>@news.Lead</p>
+        <p>Written by @news.Writer and published on @news.Date.ToString("dd-MM-yyyy"), in category: @news.SubCategory.Category.CategoryName, @news.SubCategory.SubCategoryName</p>
+    </div>
+}
+>>>>>>> 61569abc1f96baf6cab432c32161bde9f1dac8ce

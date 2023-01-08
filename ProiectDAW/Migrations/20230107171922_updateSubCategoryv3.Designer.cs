@@ -12,8 +12,8 @@ using ProiectDAW.ContextModels;
 namespace ProiectDAW.Migrations
 {
     [DbContext(typeof(NewsContext))]
-    [Migration("20230104215537_News")]
-    partial class News
+    [Migration("20230107171922_updateSubCategoryv3")]
+    partial class updateSubCategoryv3
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,6 +40,28 @@ namespace ProiectDAW.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+                });
+
+            modelBuilder.Entity("ProiectDAW.Models.Comments", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Comment")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("NewsId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("NewsId");
+
+                    b.ToTable("Comments");
                 });
 
             modelBuilder.Entity("ProiectDAW.Models.News", b =>
@@ -101,6 +123,13 @@ namespace ProiectDAW.Migrations
                     b.ToTable("SubCategories");
                 });
 
+            modelBuilder.Entity("ProiectDAW.Models.Comments", b =>
+                {
+                    b.HasOne("ProiectDAW.Models.News", null)
+                        .WithMany("Comments")
+                        .HasForeignKey("NewsId");
+                });
+
             modelBuilder.Entity("ProiectDAW.Models.News", b =>
                 {
                     b.HasOne("ProiectDAW.Models.SubCategory", "SubCategory")
@@ -121,6 +150,11 @@ namespace ProiectDAW.Migrations
                         .IsRequired();
 
                     b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("ProiectDAW.Models.News", b =>
+                {
+                    b.Navigation("Comments");
                 });
 #pragma warning restore 612, 618
         }
