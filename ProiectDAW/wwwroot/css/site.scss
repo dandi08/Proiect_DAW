@@ -1,0 +1,82 @@
+// Importing variables
+@import 'variables.scss';
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+// Importing files
+@import 'container.scss';
+@import 'nav.scss';
+@import 'aside.scss';
+@import 'catalog.scss';
+
+* {
+  font-family: Lato;    
+  transition: all .25s ease-in-out;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+    text-decoration: none;
+
+    &:hover {
+        color: $primary;
+    }
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+label {
+  color: red;
+}
+
+::marker {
+    color: $primary;
+}
+
+.category {
+    &::before {
+        content: "";
+        background-color: $red;
+        width: 2px;
+        height: 80%;
+        margin-right: 5px;
+
+        display: inline-block;
+    }
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    
+    &__header {
+        display: flex;
+        align-items: center;
+
+        font-size: 1.5rem;
+        text-transform: none;
+        text-decoration: none;
+        color: $gray-700;
+
+        margin-bottom: .5rem;
+    }
+
+    
+}

@@ -1,0 +1,12 @@
+// Importing variables
+@import 'variables.scss';
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    flex-basis: 80%;
+}

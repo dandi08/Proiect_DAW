@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.catalog {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  row-gap: 1rem;
+}
+.catalog__information {
+  display: flex;
+  flex-direction: column;
+}
+.catalog__information > * {
+  text-decoration: none;
+}
+.catalog__image--title {
+  color: #343a40;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+.catalog__image--text, .catalog__image--notes {
+  color: #495057;
+  font-weight: 400;
+}
+.catalog__image--notes {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  font-size: 0.8125rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}/*# sourceMappingURL=catalog.css.map */
