@@ -8,14 +8,15 @@ using ProiectDAW.Pages;
 
 namespace ProiectDAW.Pages
 {
-    public class EditNewsPage : PageModel
+    public class EditNewsPageModel : PageModel
     {
+        [BindProperty]
         public News news { get; set; }
         public List<SelectListItem> subcategories { get; set; }
-        private readonly ILogger<EditNewsPage> logger;
+        private readonly ILogger<EditNewsPageModel> logger;
         private readonly NewsContext newsContext;
 
-        public EditNewsPage(ILogger<EditNewsPage> logger, NewsContext newsContext)
+        public EditNewsPageModel(ILogger<EditNewsPageModel> logger, NewsContext newsContext)
         {
             this.logger = logger;
             this.newsContext = newsContext;
@@ -23,7 +24,7 @@ namespace ProiectDAW.Pages
 
         public void OnGet(int NewsId)
         {
-            news=newsContext.News.Include(news=>news.SubCategory.Category).FirstOrDefault(x=>x.Id==NewsId);
+            news = newsContext.News.Include(news => news.SubCategory.Category).FirstOrDefault( x=> x.Id == NewsId);
             subcategories = newsContext.SubCategories.Select(x => new SelectListItem
             {
                 Value = x.Id.ToString(),

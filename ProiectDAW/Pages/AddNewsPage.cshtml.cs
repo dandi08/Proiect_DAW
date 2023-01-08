@@ -9,6 +9,8 @@ namespace ProiectDAW.Pages
 {
     public class AddNewsPage : PageModel
     {
+        [BindProperty]
+
         public News news { get; set; }
         public List<SelectListItem> subcategories { get; set; }
         private readonly ILogger<AddNewsPage> logger;
