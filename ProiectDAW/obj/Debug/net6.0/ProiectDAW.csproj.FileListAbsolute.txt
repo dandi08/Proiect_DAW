@@ -346,3 +346,6 @@ C:\Users\dandi08\Desktop\anul4\sem1\proiect DAW\Proiect_DAW\ProiectDAW\obj\Debug
 C:\Users\dandi08\Desktop\anul4\sem1\proiect DAW\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.pdb
 C:\Users\dandi08\Desktop\anul4\sem1\proiect DAW\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.genruntimeconfig.cache
 C:\Users\dandi08\Desktop\anul4\sem1\proiect DAW\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ref\ProiectDAW.dll
+D:\Facultate\Anul 4\Dezvoltare Web\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\NaCl.dll
+D:\Facultate\Anul 4\Dezvoltare Web\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Facultate\Anul 4\Dezvoltare Web\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\PusherServer.dll

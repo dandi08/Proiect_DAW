@@ -3,8 +3,12 @@
     public class Comments
 
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
+
+        public string Name { get; set; }
+
+        public string Body { get; set; }
+
         public int NewsId { get; set; }
-        public string Comment { get; set; }
     }
 }
