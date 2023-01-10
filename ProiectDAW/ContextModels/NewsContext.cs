@@ -14,6 +14,7 @@ namespace ProiectDAW.ContextModels
         public DbSet<SubCategory> SubCategories { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Comments> Comments { get; set; }
+        public DbSet<Proposals> Proposals { get; set; }
 
     }
 

@@ -37,6 +37,9 @@
                                 <li class="nav-item">
                                     <a class="nav-link" asp-area="" asp-page="/Privacy">Privacy</a>
                                 </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-page="/Proposal">Propose</a>
+                                </li>
                             </ul>
                         </div>
                     </div>
@@ -44,7 +47,7 @@
 
                 @* Search bar *@
                 <section class="header__search">
-                    <form method="post" class="header__search--form">
+                    <form method="post" class="header__search--form" asp-page="/Index">
                         <input type="text" placeholder="News Title" name="searchText" class="header__search--input">
                         <button type="submit" class="header__search--submit">
                             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
