@@ -145,6 +145,30 @@ namespace ProiectDAW.Migrations
                     b.ToTable("News");
                 });
 
+            modelBuilder.Entity("ProiectDAW.Models.Proposals", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ProposalBody")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Proposals");
+                });
+
             modelBuilder.Entity("ProiectDAW.Models.SubCategory", b =>
                 {
                     b.Property<int>("Id")
