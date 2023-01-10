@@ -12,18 +12,8 @@ using ProiectDAW.ContextModels;
 namespace ProiectDAW.Migrations
 {
     [DbContext(typeof(NewsContext))]
-<<<<<<<< HEAD:ProiectDAW/Migrations/20230109225910_sa imi trag pula.Designer.cs
-<<<<<<<< HEAD:ProiectDAW/Migrations/20230109225910_sa imi trag pula.Designer.cs
-    [Migration("20230109225910_sa imi trag pula")]
-    partial class saimitragpula
-========
-    [Migration("20230109201726_updated_migrations")]
-    partial class updatedmigrations
->>>>>>>> Cristi:ProiectDAW/Migrations/20230109201726_updated_migrations.Designer.cs
-========
-    [Migration("20230110201607_addedProposals")]
-    partial class addedProposals
->>>>>>>> Cristi:ProiectDAW/Migrations/20230110201607_addedProposals.Designer.cs
+    [Migration("20230110222019_resetMigration")]
+    partial class resetMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

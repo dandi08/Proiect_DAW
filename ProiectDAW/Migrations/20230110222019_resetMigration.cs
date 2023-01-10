@@ -5,7 +5,7 @@
 namespace ProiectDAW.Migrations
 {
     /// <inheritdoc />
-    public partial class saimitragpula : Migration
+    public partial class resetMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
