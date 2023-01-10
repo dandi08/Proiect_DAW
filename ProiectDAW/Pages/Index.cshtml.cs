@@ -24,12 +24,13 @@ namespace ProiectDAW.Pages
             News = this.newsContext.News.Include(news => news.SubCategory.Category).ToList();
             News = News.OrderByDescending(news => news.Date).ToList();
         }
-
-        public IActionResult OnPost(String searchText)
+        [HttpPost]
+        public IActionResult OnPost()
         {
-            String title = searchText;
-            var AllNews = newsContext.News.Include(news => news.SubCategory).ToList();
+            String title = Request.Form["searchText"];
+            var AllNews = newsContext.News.Include(news => news.SubCategory.Category).ToList();
             News = AllNews.Where(news => news.NewsTitle.Contains(title) || title==null).ToList();
+            News = News.OrderByDescending(news => news.Date).ToList();
 
             return Page();
         }

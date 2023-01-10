@@ -6,7 +6,11 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ProiectDAW.Migrations
 {
     /// <inheritdoc />
+<<<<<<<< HEAD:ProiectDAW/Migrations/20230110210240_creating tables.cs
     public partial class creatingtables : Migration
+========
+    public partial class updatedmigrations : Migration
+>>>>>>>> Cristi:ProiectDAW/Migrations/20230109201726_updated_migrations.cs
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -124,11 +128,14 @@ namespace ProiectDAW.Migrations
                 });
 
             migrationBuilder.CreateIndex(
+<<<<<<<< HEAD:ProiectDAW/Migrations/20230110210240_creating tables.cs
                 name: "IX_Accounts_TypeId",
                 table: "Accounts",
                 column: "TypeId");
 
             migrationBuilder.CreateIndex(
+========
+>>>>>>>> Cristi:ProiectDAW/Migrations/20230109201726_updated_migrations.cs
                 name: "IX_Comments_NewsId",
                 table: "Comments",
                 column: "NewsId");
@@ -148,6 +155,7 @@ namespace ProiectDAW.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
+<<<<<<<< HEAD:ProiectDAW/Migrations/20230110210240_creating tables.cs
                 name: "Accounts");
 
             migrationBuilder.DropTable(
@@ -157,6 +165,11 @@ namespace ProiectDAW.Migrations
                 name: "AccountTypes");
 
             migrationBuilder.DropTable(
+========
+                name: "Comments");
+
+            migrationBuilder.DropTable(
+>>>>>>>> Cristi:ProiectDAW/Migrations/20230109201726_updated_migrations.cs
                 name: "News");
 
             migrationBuilder.DropTable(

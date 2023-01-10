@@ -6,8 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ProiectDAW.Migrations
 {
     /// <inheritdoc />
+<<<<<<< HEAD
 <<<<<<<< HEAD:ProiectDAW/Migrations/20230109225735_I HOPE THIS WORKS.cs
     public partial class IHOPETHISWORKS : Migration
+=======
+<<<<<<<< HEAD:ProiectDAW/Migrations/20230110210240_creating tables.cs
+    public partial class creatingtables : Migration
+>>>>>>> Cristi
 ========
     public partial class updatedmigrations : Migration
 >>>>>>>> Cristi:ProiectDAW/Migrations/20230109201726_updated_migrations.cs
@@ -110,6 +115,7 @@ namespace ProiectDAW.Migrations
                 name: "Comments",
                 columns: table => new
                 {
+<<<<<<< HEAD
 <<<<<<<< HEAD:ProiectDAW/Migrations/20230109225735_I HOPE THIS WORKS.cs
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
@@ -120,6 +126,8 @@ namespace ProiectDAW.Migrations
                 {
                     table.PrimaryKey("PK_Comments", x => x.Id);
 ========
+=======
+>>>>>>> Cristi
                     ID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -129,7 +137,10 @@ namespace ProiectDAW.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Comments", x => x.ID);
+<<<<<<< HEAD
 >>>>>>>> Cristi:ProiectDAW/Migrations/20230109201726_updated_migrations.cs
+=======
+>>>>>>> Cristi
                     table.ForeignKey(
                         name: "FK_Comments_News_NewsId",
                         column: x => x.NewsId,
@@ -139,7 +150,11 @@ namespace ProiectDAW.Migrations
                 });
 
             migrationBuilder.CreateIndex(
+<<<<<<< HEAD
 <<<<<<<< HEAD:ProiectDAW/Migrations/20230109225735_I HOPE THIS WORKS.cs
+=======
+<<<<<<<< HEAD:ProiectDAW/Migrations/20230110210240_creating tables.cs
+>>>>>>> Cristi
                 name: "IX_Accounts_TypeId",
                 table: "Accounts",
                 column: "TypeId");
@@ -166,7 +181,11 @@ namespace ProiectDAW.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
+<<<<<<< HEAD
 <<<<<<<< HEAD:ProiectDAW/Migrations/20230109225735_I HOPE THIS WORKS.cs
+=======
+<<<<<<<< HEAD:ProiectDAW/Migrations/20230110210240_creating tables.cs
+>>>>>>> Cristi
                 name: "Accounts");
 
             migrationBuilder.DropTable(
