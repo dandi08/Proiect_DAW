@@ -12,15 +12,9 @@ using ProiectDAW.ContextModels;
 namespace ProiectDAW.Migrations
 {
     [DbContext(typeof(NewsContext))]
-<<<<<<< HEAD
 <<<<<<<< HEAD:ProiectDAW/Migrations/20230109225910_sa imi trag pula.Designer.cs
     [Migration("20230109225910_sa imi trag pula")]
     partial class saimitragpula
-=======
-<<<<<<<< HEAD:ProiectDAW/Migrations/20230109225735_I HOPE THIS WORKS.Designer.cs
-    [Migration("20230109225735_I HOPE THIS WORKS")]
-    partial class IHOPETHISWORKS
->>>>>>> Cristi
 ========
     [Migration("20230109201726_updated_migrations")]
     partial class updatedmigrations

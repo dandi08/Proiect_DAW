@@ -12,13 +12,8 @@ using ProiectDAW.ContextModels;
 namespace ProiectDAW.Migrations
 {
     [DbContext(typeof(NewsContext))]
-<<<<<<<< HEAD:ProiectDAW/Migrations/20230109225735_I HOPE THIS WORKS.Designer.cs
     [Migration("20230109225735_I HOPE THIS WORKS")]
     partial class IHOPETHISWORKS
-========
-    [Migration("20230109201726_updated_migrations")]
-    partial class updatedmigrations
->>>>>>>> Cristi:ProiectDAW/Migrations/20230109201726_updated_migrations.Designer.cs
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -92,24 +87,20 @@ namespace ProiectDAW.Migrations
 
             modelBuilder.Entity("ProiectDAW.Models.Comments", b =>
                 {
-                    b.Property<int>("ID")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Body")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Name")
+                    b.Property<string>("Comment")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("NewsId")
                         .HasColumnType("int");
 
-                    b.HasKey("ID");
+                    b.HasKey("Id");
 
                     b.HasIndex("NewsId");
 

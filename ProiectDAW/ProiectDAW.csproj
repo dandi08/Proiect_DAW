@@ -20,13 +20,10 @@
 
   <ItemGroup>
     <Folder Include="Migrations\" />
-<<<<<<< HEAD
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Migrations\" />
-=======
->>>>>>> Cristi
   </ItemGroup>
 
 </Project>

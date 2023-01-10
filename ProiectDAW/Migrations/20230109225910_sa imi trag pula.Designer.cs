@@ -13,17 +13,12 @@ namespace ProiectDAW.Migrations
 {
     [DbContext(typeof(NewsContext))]
 <<<<<<<< HEAD:ProiectDAW/Migrations/20230109225910_sa imi trag pula.Designer.cs
-<<<<<<<< HEAD:ProiectDAW/Migrations/20230109225910_sa imi trag pula.Designer.cs
     [Migration("20230109225910_sa imi trag pula")]
     partial class saimitragpula
 ========
     [Migration("20230109201726_updated_migrations")]
     partial class updatedmigrations
 >>>>>>>> Cristi:ProiectDAW/Migrations/20230109201726_updated_migrations.Designer.cs
-========
-    [Migration("20230110201607_addedProposals")]
-    partial class addedProposals
->>>>>>>> Cristi:ProiectDAW/Migrations/20230110201607_addedProposals.Designer.cs
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -156,30 +151,6 @@ namespace ProiectDAW.Migrations
                     b.HasIndex("SubCategoryId");
 
                     b.ToTable("News");
-                });
-
-            modelBuilder.Entity("ProiectDAW.Models.Proposals", b =>
-                {
-                    b.Property<int>("ID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
-
-                    b.Property<DateTime>("Date")
-                        .HasColumnType("datetime2");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("ProposalBody")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("ID");
-
-                    b.ToTable("Proposals");
                 });
 
             modelBuilder.Entity("ProiectDAW.Models.SubCategory", b =>
