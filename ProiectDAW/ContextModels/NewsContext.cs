@@ -16,7 +16,6 @@ namespace ProiectDAW.ContextModels
         public DbSet<Comments> Comments { get; set; }
         public DbSet<Accounts> Accounts { get; set; }
         public DbSet<AccountTypes> AccountTypes { get; set; }
-        public DbSet<Proposals> Proposals { get; set; } 
 
     }
 
