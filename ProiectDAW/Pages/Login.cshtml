@@ -1,0 +1,14 @@
+﻿@page
+@model ProiectDAW.Pages.LoginModel
+@{
+}
+
+<form method="post">
+   <label>Username:</label>
+   <input asp-for="Account.Username" type="text" />
+   <br />
+   <label>Password:</label>
+   <input asp-for="Account.Password" type="password" />
+   <br />
+   <input type="submit" value="Login" />
+</form>

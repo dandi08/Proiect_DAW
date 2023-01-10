@@ -1,14 +1,50 @@
 ﻿@page
+@using ProiectDAW.Models
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
 }
 
 <div class="center">
-    <p>Do you want to add new news?</p>
-    <button><a asp-page="\AddNewsPage">Yes </a></button>
-    
-</div>
+        <p>Do you want to add new news?</p>
+        <button><a asp-page="\AddNewsPage">Yes </a></button>
+
+    </div>
+
+@if (@LoggingSystem.GetInstance().Account == null)
+{
+    <div class="center">
+        <p>NULL</p>
+
+    </div>
+}
+@if (@LoggingSystem.GetInstance().Account != null && @LoggingSystem.GetInstance().Account.TypeId == 1)
+{
+    <div class="center">
+        <p>USER</p>
+
+    </div>
+}
+else @if (@LoggingSystem.GetInstance().Account != null && @LoggingSystem.GetInstance().Account.TypeId == 2)
+{
+    <div class="center">
+        <p>EDITOR</p>
+
+    </div>
+}
+else @if (@LoggingSystem.GetInstance().Account != null && @LoggingSystem.GetInstance().Account.TypeId == 3)
+{
+    <div class="center">
+        <p>ADMIN</p>
+
+    </div>
+} else
+{
+    <div class="center">
+        <p>MUIE</p>
+
+    </div>
+} 
 
 @foreach(Models.News news in Model.News)
 {

@@ -22,7 +22,7 @@ namespace ProiectDAW.Pages
         public void OnGet()
         {
             News = this.newsContext.News.Include(news => news.SubCategory.Category).ToList();
-            News=News.OrderByDescending(news => news.Date).ToList();
+            News = News.OrderByDescending(news => news.Date).ToList();
         }
 
         public IActionResult OnPost(String searchText)
