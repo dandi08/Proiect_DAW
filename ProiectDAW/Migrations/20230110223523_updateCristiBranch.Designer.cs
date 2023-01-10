@@ -12,13 +12,8 @@ using ProiectDAW.ContextModels;
 namespace ProiectDAW.Migrations
 {
     [DbContext(typeof(NewsContext))]
-<<<<<<<< HEAD:ProiectDAW/Migrations/20230109201726_updated_migrations.Designer.cs
-    [Migration("20230109201726_updated_migrations")]
-    partial class updatedmigrations
-========
-    [Migration("20230110222019_resetMigration")]
-    partial class resetMigration
->>>>>>>> master:ProiectDAW/Migrations/20230110222019_resetMigration.Designer.cs
+    [Migration("20230110223523_updateCristiBranch")]
+    partial class updateCristiBranch
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

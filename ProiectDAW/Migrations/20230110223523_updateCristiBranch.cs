@@ -5,7 +5,7 @@
 namespace ProiectDAW.Migrations
 {
     /// <inheritdoc />
-    public partial class resetMigration : Migration
+    public partial class updateCristiBranch : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
