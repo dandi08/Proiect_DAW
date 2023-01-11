@@ -1,12 +1,14 @@
 // Importing variables
 @import 'variables.scss';
 @import url(https://fonts.googleapis.com/css?family=Lato);
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
 
 // Importing files
 @import 'container.scss';
 @import 'nav.scss';
 @import 'aside.scss';
 @import 'catalog.scss';
+@import 'login.scss';
 
 * {
   font-family: Lato;    
@@ -15,12 +17,18 @@
   padding: 0;
 }
 
-a {
-    text-decoration: none;  
+body {
+  background-image: url('../blurry-gradient-haikei.png')!important;
 
-    &:hover {
-        color: $primary;
-    }
+  background-size: 100%;
+}
+
+a {
+  text-decoration: none;  
+
+  &:hover {
+      color: $primary;
+  }
 }
 
 html {
@@ -46,19 +54,24 @@ label {
   color: red;
 }
 
+img {
+  border-radius: 3%;
+}
+
 ::marker {
     color: $primary;
 }
 
 .category {
     &::before {
-        content: "";
-        background-color: $red;
+      content: "a";
+      background-color: $red;
+      /* 
         width: 2px;
         height: 80%;
         margin-right: 5px;
 
-        display: inline-block;
+        display: inline-block; */
     }
 }
 
@@ -77,6 +90,20 @@ label {
 
         margin-bottom: .5rem;
     }
+}
 
-    
+.thumb {
+  width: 100px;
+  height: 100px;
+}
+
+.thumb-medium {
+  width: 250px;
+  height: 150px;
+}
+
+.thumb-large {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oiBUvk1zkcQNFHQxZ3mtzmrF4MGfS83KNs9vUn9Sbs8=",
+  "Hash": "aVZpUYofk/p6K8YVZc41Q33aBT1trZUdzW2sS/SjWrs=",
   "Source": "ProiectDAW",
   "BasePath": "_content/ProiectDAW",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ProiectDAW\\wwwroot",
       "Source": "ProiectDAW",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProiectDAW.styles.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProiectDAW.styles.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "ProiectDAW.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProiectDAW.styles.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProiectDAW.styles.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "ProiectDAW.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,30 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\blurry-gradient-haikei.png",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "blurry-gradient-haikei.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blurry-gradient-haikei.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/aside.css",
       "AssetKind": "All",
@@ -68,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\aside.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/aside.css.map",
       "AssetKind": "All",
@@ -85,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\aside.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.scss",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/aside.scss",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\aside.scss"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/catalog.css",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\catalog.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/catalog.css.map",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\catalog.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.scss",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/catalog.scss",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\catalog.scss"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/container.css",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\container.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/container.css.map",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\container.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.scss",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/container.scss",
       "AssetKind": "All",
@@ -204,10 +221,44 @@
       "OriginalItemSpec": "wwwroot\\css\\container.scss"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.scss",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/footer.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\footer.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/footer.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\footer.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/footer.scss",
       "AssetKind": "All",
@@ -221,10 +272,61 @@
       "OriginalItemSpec": "wwwroot\\css\\footer.scss"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/login.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/login.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/nav.css",
       "AssetKind": "All",
@@ -238,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nav.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/nav.css.map",
       "AssetKind": "All",
@@ -255,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\nav.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.scss",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/nav.scss",
       "AssetKind": "All",
@@ -272,10 +374,44 @@
       "OriginalItemSpec": "wwwroot\\css\\nav.scss"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.scss",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/news.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\news.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/news.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\news.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/news.scss",
       "AssetKind": "All",
@@ -289,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\news.scss"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -306,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/site.css.map",
       "AssetKind": "All",
@@ -323,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.scss",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -340,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/variables.css",
       "AssetKind": "All",
@@ -357,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\variables.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/variables.css.map",
       "AssetKind": "All",
@@ -374,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\css\\variables.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.scss",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/variables.scss",
       "AssetKind": "All",
@@ -391,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\css\\variables.scss"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\favicon.ico",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -408,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\js\\site.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -425,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -442,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -459,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -476,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -493,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -510,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -527,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -544,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -561,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -578,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -595,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -612,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -629,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -646,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -714,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -731,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -748,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -765,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -782,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -799,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -816,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -833,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -850,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -867,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -884,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -901,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -918,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -935,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -952,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -969,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -986,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1003,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1020,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1037,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1054,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1071,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1088,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1105,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1122,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1139,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1156,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1173,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1190,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1207,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1224,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1241,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1258,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1275,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1292,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1309,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1326,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1343,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1360,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1377,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

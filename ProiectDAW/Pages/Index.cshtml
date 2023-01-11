@@ -4,12 +4,43 @@
 @{
     ViewData["Title"] = "Home page";
 }
+<main role="main" class="pb-3 main-container">
+<div class="catalog">
+    @foreach (Models.News news in Model.News)
+    {
+        if (Model.News.First() == news) {
+            <div class="text-center catalog-item">
+                <div class="catalog-item__image">
+                    <img src="https://placekitten.com/250/150" class="thumb-large">
+                </div>
+                <div class="catalog-item__content">
+                        <a asp-page="/NewsPage" asp-route-NewsId="@news.Id" class="catalog-item__content--title">@news.NewsTitle</a>
+                    <a class="catalog-item__content--description">@news.Lead</a>
+                    <a class="catalog-item__content--data">@news.Writer, @news.Date.ToString("dd-MM-yyyy")</a>
+                    <a class="catalog-item__content--category category">@news.SubCategory.Category.CategoryName, @news.SubCategory.SubCategoryName</a>
+                </div>
+            </div>
+        }
+        else {
+            <div class="text-center catalog-item">
+                <div class="catalog-item__image">
+                    <img src="https://placekitten.com/250/150" class="thumb-medium">
+                </div>
+                <div class="catalog-item__content">
+                    <a asp-page="/NewsPage" asp-route-NewsId="@news.Id" class="catalog-item__content--title">@news.NewsTitle</a>
+                    <a class="catalog-item__content--description">@news.Lead</a>
+                    <a class="catalog-item__content--data">@news.Writer, @news.Date.ToString("dd-MM-yyyy")</a>
+                    <a class="catalog-item__content--category category">@news.SubCategory.Category.CategoryName, @news.SubCategory.SubCategoryName</a>
+                </div>
+            </div>
+        }
+    }
+</div>
 
 <div class="center">
-        <p>Do you want to add new news?</p>
-        <button><a asp-page="\AddNewsPage">Yes </a></button>
-
-    </div>
+    <p>Do you want to add new news?</p>
+    <button><a asp-page="\AddNewsPage">Yes </a></button>
+</div>
 
 @if (@LoggingSystem.GetInstance().Account == null)
 {
@@ -44,13 +75,37 @@ else @if (@LoggingSystem.GetInstance().Account != null && @LoggingSystem.GetInst
         <p>MUIE</p>
 
     </div>
-} 
-
-@foreach(Models.News news in Model.News)
-{
-    <div class="text-center">
-        <h1><a asp-page="/NewsPage" asp-route-NewsId="@news.Id">@news.NewsTitle</a></h1>
-        <p>@news.Lead</p>
-        <p>Written by @news.Writer and published on @news.Date.ToString("dd-MM-yyyy"), in category: @news.SubCategory.Category.CategoryName, @news.SubCategory.SubCategoryName</p>
-    </div>
 }
+</main>
+
+<aside class="main-aside">
+    <article class="aside-article">
+        <div class="article__image">
+            <img src="https://placekitten.com/200/200" class="thumb" />
+        </div>
+        <div class="article__content">
+            <a class="article__content--title">title</a>
+            <a class="article__content--category category">category</a>
+        </div>
+    </article>
+
+    <article class="aside-article">
+        <div class="article__image">
+            <img src="https://placekitten.com/200/200" class="thumb" />
+        </div>
+        <div class="article__content">
+            <a class="article__content--title">title</a>
+            <a class="article__content--category category">category</a>
+        </div>
+    </article>
+
+    <article class="aside-article">
+        <div class="article__image">
+            <img src="https://placekitten.com/200/200" class="thumb" />
+        </div>
+        <div class="article__content">
+            <a class="article__content--title">title</a>
+            <a class="article__content--category category">category</a>
+        </div>
+    </article>
+</aside>

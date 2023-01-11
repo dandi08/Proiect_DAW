@@ -1,27 +1,32 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
 .main-aside {
-  flex-basis: 20%;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-.main-aside__title, .main-aside__content {
-  width: 100%;
+
+@media only screen and (max-width: 1000px) {
+  .main-aside {
+    display: none;
+  }
 }
-.main-aside__title {
-  border: 2px solid #20c997;
-  border-top-left-radius: 30%;
-  border-top-right-radius: 30%;
-  background-color: #20c997;
-  font-weight: 600;
-  font-size: 1.5rem;
-  color: #dee2e6;
+.aside-article {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: row;
+  margin-bottom: 2rem;
 }
-.main-aside__content {
-  border: 2px solid #20c997;
-  min-height: 300px;
-  max-height: 500px;
+.aside-article > div > img {
+  flex-basis: 33%;
+}
+
+.article__content {
+  margin-left: 1rem;
+}
+.article__content > * {
+  text-decoration: none;
+}
+.article__content--title {
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: #343a40 !important;
 }/*# sourceMappingURL=aside.css.map */
