@@ -10,12 +10,20 @@
 @import 'catalog.scss';
 @import 'login.scss';
 @import 'forms.scss';
+@import 'proposals.scss';
+@import 'news.scss';
 
 * {
   font-family: Lato;    
   transition: all .25s ease-in-out;
   margin: 0;
   padding: 0;
+}
+
+.container-page {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
@@ -47,10 +55,6 @@ html {
 
 body {
   margin-bottom: 60px;
-}
-
-label {
-  color: red;
 }
 
 img {

@@ -1,1 +1,27 @@
-/*# sourceMappingURL=news.css.map */
+@import url(https://fonts.googleapis.com/css?family=Lato);
+.news__image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-style: italic;
+  font-size: 0.8125rem;
+  margin-bottom: 1rem;
+}
+.news__image > svg {
+  fill: #fff;
+  width: 1rem;
+}
+.news__wrapper {
+  display: flex;
+}
+.news__wrapper > a {
+  flex-basis: 50%;
+  text-decoration: none;
+}
+.news__wrapper > a:hover {
+  color: #495057;
+}
+.news__wrapper > img {
+  padding: 10px;
+}/*# sourceMappingURL=news.css.map */

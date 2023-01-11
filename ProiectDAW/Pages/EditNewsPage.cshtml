@@ -7,7 +7,7 @@
 <div>
     <h1>Edit your news below:</h1>
 
-    <form method="post" >
+    <form method="post" id="form-pula2">
         <input asp-for="news.Id" type="hidden" /> <br></br>
         <label>Title: </label>
         <input asp-for="news.NewsTitle" /> <br></br>
@@ -18,8 +18,9 @@
         <label>Writer: </label>
         <input asp-for="news.Writer" /><br></br>
 
-        <label>The body: </label>
-        <input asp-for="news.Body" /><br></br>
+        <label>The body: </label><br />
+        <textarea asp-for="news.Body" form="form-pula2" placeholder="Comentariul tau..."></textarea>
+        <br></br>
 
         <label>Subcategory: </label>
         <select asp-for="news.SubCategoryId" asp-items="Model.subcategories">

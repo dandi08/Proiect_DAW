@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+.proposal-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.container-proposal {
+  width: 33%;
+}
+.container-proposal > * {
+  color: #212529;
+}
+
+.page-header h1 {
+  white-space: nowrap;
+}/*# sourceMappingURL=proposals.css.map */

@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
 .container {
+  max-width: 960px;
   padding-top: 1rem;
   background-color: #fff;
   display: flex;
