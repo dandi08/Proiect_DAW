@@ -6,7 +6,7 @@
 <div>
     <h1>Add your news below:</h1>
 
-    <form method="post" >
+    <form method="post" asp-page-handler="AddNews">
         <label>Title: </label>
         <input asp-for="news.NewsTitle" /> <br></br>
 
@@ -28,7 +28,34 @@
         <input asp-for="news.Date" /><br></br>
 
         <input type="submit" value="Submit" />
-        <button><a asp-page="\Index">Cancel </a></button>
 
     </form>
+
+    <h1>Add a new category:</h1>
+
+    <form method="post" asp-page-handler="AddCategory">
+        <label>Subcategory name: </label>
+        <input asp-for="category.CategoryName" /> <br></br>
+
+        <input type="submit" value="Submit" />
+
+    </form>
+
+    <h1>Add a new subcategory:</h1>
+
+    <form method="post" asp-page-handler="AddSubCategory">
+        <label>Category name: </label>
+        <input asp-for="subCategory.SubCategoryName" /> <br></br>
+
+        <label>Category: </label>
+        <select asp-for="subCategory.CategoryId" asp-items="Model.categories">
+
+        </select><br></br>
+
+        <input type="submit" value="Submit" />
+
+
+    </form>
+
+    <button><a asp-page="\Index">Back </a></button>
 </div>

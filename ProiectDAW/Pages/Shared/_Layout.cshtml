@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using ProiectDAW.Pages
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -45,6 +47,14 @@
                                 </li>
                             </ul>
                         </div>
+                    </div>
+                    <div>
+                        @foreach (Models.Category category in Pages.IndexModel.Categories)
+                        {
+                            <div>
+                                <p>@category.CategoryName</p>
+                            </div>
+                        }
                     </div>
                 </nav>
 
