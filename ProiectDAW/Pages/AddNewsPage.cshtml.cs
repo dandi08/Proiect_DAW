@@ -9,9 +9,6 @@ namespace ProiectDAW.Pages
 {
     public class AddNewsPage : PageModel
     {
-        [BindProperty]
-
-        public News news { get; set; }
         public List<SelectListItem> subcategories { get; set; }
         private readonly ILogger<AddNewsPage> logger;
         private readonly NewsContext newsContext;
@@ -22,21 +19,9 @@ namespace ProiectDAW.Pages
             this.newsContext = newsContext;
         }
 
-        public void OnGet()
-        {
-            news = new News();
-            subcategories = newsContext.SubCategories.Select(x => new SelectListItem
-            {
-                Value = x.Id.ToString(),
-                Text = x.SubCategoryName
-            }).ToList();
-        }
-
         public IActionResult OnPost()
         {
-            newsContext.Add(news);
-            newsContext.SaveChanges();
-            return RedirectToPage("Index");
+            return RedirectToPage("AddInternalNewsPage");
         }
     }
 }

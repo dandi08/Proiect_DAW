@@ -1,0 +1,34 @@
+﻿@page 
+@model AddInternalNewsPage
+@{
+}
+
+<div>
+    <h1>Add your news below:</h1>
+
+    <form method="post" >
+        <label>Title: </label>
+        <input asp-for="news.NewsTitle" /> <br></br>
+
+        <label>Lead: </label>
+        <input asp-for="news.Lead" /><br></br>
+
+        <label>Writer: </label>
+        <input asp-for="news.Writer" /><br></br>
+
+        <label>The body: </label>
+        <input asp-for="news.Body" /><br></br>
+
+        <label>Subcategory: </label>
+        <select asp-for="news.SubCategoryId" asp-items="Model.subcategories">
+            
+        </select>
+        <br></br>
+        <label>Date: </label>
+        <input asp-for="news.Date" /><br></br>
+
+        <input type="submit" value="Submit" />
+        <button><a asp-page="\Index">Cancel </a></button>
+
+    </form>
+</div>

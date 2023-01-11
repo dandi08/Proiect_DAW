@@ -9,6 +9,7 @@
 @import 'aside.scss';
 @import 'catalog.scss';
 @import 'login.scss';
+@import 'forms.scss';
 
 * {
   font-family: Lato;    
@@ -18,9 +19,7 @@
 }
 
 body {
-  background-image: url('../blurry-gradient-haikei.png')!important;
-
-  background-size: 100%;
+	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
 }
 
 a {
@@ -63,15 +62,21 @@ img {
 }
 
 .category {
-    &::before {
-      content: "a";
-      background-color: $red;
-      /* 
-        width: 2px;
-        height: 80%;
-        margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-        display: inline-block; */
+    color: $gray-700;
+    font-size: .875rem;
+    
+    &::before {
+      content: "";
+      background-color: $red;
+      width: 2px;
+      height: 80%;
+      margin-right: 5px;
+
+      display: inline-block;
     }
 }
 

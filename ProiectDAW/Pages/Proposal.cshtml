@@ -1,12 +1,12 @@
 ﻿@page
-@model ProposalModel
+@model ProiectDAW.Pages.ProposalModel
 @{
     ViewData["Title"] = "Home page";
 }
 
-<div class="container">
-    <br />
-    <p>Your Proposal</p>
+<h1>Your Proposal</h1>
+
+@*<div class="container">
     <form method="post">
         <label>Name</label><br/>
         <input asp-for="proposal.Name" /><br /></br > 
@@ -14,7 +14,32 @@
         <input asp-for="proposal.ProposalBody" />
         <input type="submit" value="Save" />
     </form>
+</div>*@
+
+<div class="container-form">
+	<div class="screen">
+		<div class="screen__content">
+			<form class="login" method="post">
+				<div class="login__field">
+					<i class="login__icon fas fa-user"></i>
+					<input asp-for="proposal.Name" type="text" class="login__input" placeholder="Name">
+				</div>
+				<div class="login__field">
+					<i class="login__icon fas fa-lock"></i>
+					<input asp-for="proposal.ProposalBody" type="text" class="login__input" placeholder="The topic of choice">
+				</div>
+				<input type="submit" value="Save" class="button login__submit"/>
+			</form>
+		</div>
+		<div class="screen__background">
+			<span class="screen__background__shape screen__background__shape4"></span>
+			<span class="screen__background__shape screen__background__shape3"></span>
+			<span class="screen__background__shape screen__background__shape2"></span>
+			<span class="screen__background__shape screen__background__shape1"></span>
+		</div>
+	</div>
 </div>
+
 
 
 <div class="container">

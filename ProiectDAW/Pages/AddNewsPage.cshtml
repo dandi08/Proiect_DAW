@@ -3,32 +3,14 @@
 @{
 }
 
-<div>
-    <h1>Add your news below:</h1>
-
-    <form method="post" >
-        <label>Title: </label>
-        <input asp-for="news.NewsTitle" /> <br></br>
-
-        <label>Lead: </label>
-        <input asp-for="news.Lead" /><br></br>
-
-        <label>Writer: </label>
-        <input asp-for="news.Writer" /><br></br>
-
-        <label>The body: </label>
-        <input asp-for="news.Body" /><br></br>
-
-        <label>Subcategory: </label>
-        <select asp-for="news.SubCategoryId" asp-items="Model.subcategories">
-            
-        </select>
-        <br></br>
-        <label>Date: </label>
-        <input asp-for="news.Date" /><br></br>
-
-        <input type="submit" value="Submit" />
-        <button><a asp-page="\Index">Cancel </a></button>
-
-    </form>
+    <h2>Would you like to add your own news or would you like to share a news from a different place?</h2>
+<div class="container-test" style="display: flex; justify-content: space-between;">
+    <div style="height: 500px;">
+        <p>If you would like to add your own news select below:</p>
+        <button><a asp-page="\AddInternalNewsPage">Go! </a></button>
+    </div>
+    <div style="height: 500px;">
+                <p>If you would like to add your own news select below:</p>
+        <button><a asp-page="\AddExternalNewsPage">Go! </a></button>
+    </div>
 </div>

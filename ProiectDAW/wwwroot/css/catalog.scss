@@ -24,6 +24,7 @@ article {
 
         & > a {
             text-decoration: none;
+            text-align: start;
         }
 
         &--title {
@@ -34,6 +35,22 @@ article {
 
         &--description {
             color: $gray-700;
+        }
+
+        &--data {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            color: $gray-500;
+            font-style: italic;
+            font-size: .8125rem;
+
+            & > svg {
+
+                fill: $gray-500;
+                width: 1rem;
+            }
         }
     }
 }
