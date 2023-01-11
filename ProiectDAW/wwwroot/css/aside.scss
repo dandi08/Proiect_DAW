@@ -3,35 +3,41 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
 
 .main-aside {
-    flex-basis: 20%;
-
     display: flex;
     flex-direction: column;
     align-items: center;
+}
 
-    &__title, &__content {
-        width: 100%;
+@media only screen and (max-width: 1000px) {
+    .main-aside {
+        display: none;
     }
+}
 
-    &__title {
-        border: 2px solid $primary;
-        border-top-left-radius: 30%;
-        border-top-right-radius: 30%;
-        background-color: $primary;
-
-        font-weight: 600;
-        font-size: 1.5rem;
-        color: $gray-300;
-
+.aside {
+    &-article {
         display: flex;
-        align-items: center;
-        justify-content: center;
+        flex-direction: row;
+        margin-bottom: 2rem;
+    
+        & > div > img {
+            flex-basis: 33%;
+        }
     }
+}
 
+.article {
     &__content {
-        border: 2px solid $primary;
-        min-height: 300px;
-        max-height: 500px;
-    }
+        margin-left: 1rem;
 
+        & > * {
+            text-decoration: none;
+        }
+
+        &--title {
+            font-weight: 600;
+            font-size: 1.25rem;
+            color: $gray-800!important;
+        }
+    }
 }

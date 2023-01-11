@@ -1,9 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
-.main-container {
+.container {
+  padding-top: 1rem;
+  background-color: #fff;
   display: flex;
-  justify-content: space-between;
 }
 
-.content {
-  flex-basis: 80%;
+.main-container {
+  display: grid;
+  flex-basis: 60%;
+}
+
+.main-aside {
+  flex-basis: 30%;
 }/*# sourceMappingURL=container.css.map */

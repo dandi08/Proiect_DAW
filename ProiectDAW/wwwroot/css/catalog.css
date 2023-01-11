@@ -6,10 +6,36 @@ article {
   align-items: flex-start;
 }
 
+.catalog-item {
+  display: flex;
+  flex-direction: column;
+}
+.catalog-item:first-child {
+  grid-column: 1/-1;
+}
+.catalog-item__content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.catalog-item__content > a {
+  text-decoration: none;
+}
+.catalog-item__content--title {
+  color: #343a40;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+.catalog-item__content--description {
+  color: #495057;
+}
+
 .catalog {
   display: grid;
   grid-template-columns: auto auto auto;
-  row-gap: 1rem;
+  row-gap: 2rem;
+  -moz-column-gap: 2rem;
+       column-gap: 2rem;
 }
 .catalog__information {
   display: flex;
