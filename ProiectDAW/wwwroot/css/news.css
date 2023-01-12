@@ -1,4 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
+.news__internal .button-19, .news__external .button-19 {
+  height: 150px;
+  width: 400px;
+}
+.news__internal .button-19 > a, .news__external .button-19 > a {
+  color: #fff;
+  text-decoration: none;
+}
 .news__image {
   display: flex;
   align-items: center;

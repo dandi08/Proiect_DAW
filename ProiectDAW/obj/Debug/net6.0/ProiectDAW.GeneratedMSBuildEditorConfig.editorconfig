@@ -15,18 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\User\Documents\GitHub\Proiect_DAW\ProiectDAW
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Documents/GitHub/Proiect_DAW/ProiectDAW/Pages/AddExternalNewsPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRXh0ZXJuYWxOZXdzUGFnZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/User/Documents/GitHub/Proiect_DAW/ProiectDAW/Pages/AddInternalNewsPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSW50ZXJuYWxOZXdzUGFnZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/User/Documents/GitHub/Proiect_DAW/ProiectDAW/Pages/AddNewsPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTmV3c1BhZ2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/User/Documents/GitHub/Proiect_DAW/ProiectDAW/Pages/DeleteNewsPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlTmV3c1BhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

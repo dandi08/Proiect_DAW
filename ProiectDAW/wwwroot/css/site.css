@@ -402,6 +402,12 @@ article {
   text-transform: uppercase;
 }
 
+.form-control {
+  background: none !important;
+  border: none !important;
+  padding-left: 0 !important;
+}
+
 .proposal-wrapper {
   display: flex;
   flex-direction: row;
@@ -419,6 +425,14 @@ article {
   white-space: nowrap;
 }
 
+.news__internal .button-19, .news__external .button-19 {
+  height: 150px;
+  width: 400px;
+}
+.news__internal .button-19 > a, .news__external .button-19 > a {
+  color: #fff;
+  text-decoration: none;
+}
 .news__image {
   display: flex;
   align-items: center;
@@ -540,4 +554,83 @@ img {
   width: 100%;
   height: auto;
   max-height: 300px;
+}
+
+/* CSS */
+.button-19 {
+  -webkit-appearance: button;
+     -moz-appearance: button;
+          appearance: button;
+  background-color: #1899D6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter 0.2s;
+  -moz-user-select: none;
+   -ms-user-select: none;
+       user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.button-19:after {
+  background-clip: padding-box;
+  background-color: #1CB0F6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-19:main,
+.button-19:focus {
+  -webkit-user-select: auto;
+     -moz-user-select: auto;
+      -ms-user-select: auto;
+          user-select: auto;
+}
+
+.button-19:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-19:disabled {
+  cursor: auto;
+}
+
+.button-19 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.button-19:hover {
+  color: #fff;
 }/*# sourceMappingURL=site.css.map */

@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -20,7 +20,12 @@
 
   <ItemGroup>
     <Folder Include="Migrations\" />
-    <Folder Include="Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\4f6af385-96d9-4fac-88a5-6052eeca66e6-orar.png" />
+    <None Include="wwwroot\Images\8a422523-239a-48e6-8289-a1ef2175101f-CARSHARING.png.png" />
+    <None Include="wwwroot\Images\efc61f35-d3cf-4a23-8939-5a16ccfec1d4-CARSHARING.png" />
   </ItemGroup>
 
 </Project>
