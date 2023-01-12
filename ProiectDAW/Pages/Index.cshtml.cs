@@ -32,7 +32,7 @@ namespace ProiectDAW.Pages
         {
             String title = Request.Form["searchText"];
             var AllNews = newsContext.News.Include(news => news.SubCategory.Category).ToList();
-            News = AllNews.Where(news => news.NewsTitle.Contains(title) || title==null).ToList();
+            News = AllNews.Where(news => news.NewsTitle.ToLower().Contains(title.ToLower()) || title==null).ToList();
             News = News.OrderByDescending(news => news.Date).ToList();
 
             return Page();

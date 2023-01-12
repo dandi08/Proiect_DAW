@@ -1,0 +1,152 @@
+﻿@page "{CategoryId:int}"
+@using ProiectDAW.Models
+@model NewsByCategoryModel
+@{
+}
+<div class="container">
+    <main role="main" class="pb-3 main-container">
+    <div class="catalog">
+    <form method = "post" asp-page-handler="AZ" asp-route-CategoryId="@Model.CategoryId">
+        <button class="button login__submit">
+            <span class="button__text">Log In Now</span>
+            <i class="button__icon fas fa-chevron-right"></i>
+            <input type="submit" value="Sort from A-Z" />
+        </button>
+    </form>
+
+    <form method = "post" asp-page-handler="ZA" asp-route-CategoryId="@Model.CategoryId">
+        <button class="button login__submit">
+            <span class="button__text">Log In Now</span>
+            <i class="button__icon fas fa-chevron-right"></i>
+            <input type="submit" value="Sort from Z-A" />
+        </button>
+    </form>
+
+    <form method = "post" asp-page-handler="Writer" asp-route-CategoryId="@Model.CategoryId">
+        <button class="button login__submit">
+            <span class="button__text">Log In Now</span>
+            <i class="button__icon fas fa-chevron-right"></i>
+            <input type="submit" value="Sort by Writter A-Z" />
+        </button>
+    </form>
+        @foreach (Models.News news in Model.News)
+        {
+                @if (news.SubCategory.CategoryId==Model.CategoryId)
+                {
+                    <div class="text-center catalog-item">
+                    @if (Model.News.First() == news) {
+                        <div class="catalog-item__image">
+                                <img src="~/Images/@news.Image" class="thumb-large">
+                        </div>
+                    }
+                    else {
+                        <div class="catalog-item__image">
+                                <img src="~/Images/@news.Image" class="thumb-medium">
+                        </div>
+                    }
+
+                    <div class="catalog-item__content">
+                        <a asp-page="/NewsPage" asp-route-NewsId="@news.Id" class="catalog-item__content--title">@news.NewsTitle</a>
+                        <a class="catalog-item__content--description">@news.Lead</a>
+                        <a class="catalog-item__content--data">
+                                <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512">
+                                    <g>
+                                        <g>
+                                            <g>
+                                                <circle cx="386" cy="210" r="20" />
+                                                <path d="M432,40h-26V20c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20v20h-91V20c0-11.046-8.954-20-20-20
+				                                    c-11.046,0-20,8.954-20,20v20h-90V20c0-11.046-8.954-20-20-20s-20,8.954-20,20v20H80C35.888,40,0,75.888,0,120v312
+				                                    c0,44.112,35.888,80,80,80h153c11.046,0,20-8.954,20-20c0-11.046-8.954-20-20-20H80c-22.056,0-40-17.944-40-40V120
+				                                    c0-22.056,17.944-40,40-40h25v20c0,11.046,8.954,20,20,20s20-8.954,20-20V80h90v20c0,11.046,8.954,20,20,20s20-8.954,20-20V80h91
+				                                    v20c0,11.046,8.954,20,20,20c11.046,0,20-8.954,20-20V80h26c22.056,0,40,17.944,40,40v114c0,11.046,8.954,20,20,20
+				                                    c11.046,0,20-8.954,20-20V120C512,75.888,476.112,40,432,40z" />
+                                                <path d="M391,270c-66.72,0-121,54.28-121,121s54.28,121,121,121s121-54.28,121-121S457.72,270,391,270z M391,472
+				                                    c-44.663,0-81-36.336-81-81s36.337-81,81-81c44.663,0,81,36.336,81,81S435.663,472,391,472z" />
+                                                <path d="M420,371h-9v-21c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20v41c0,11.046,8.954,20,20,20h29
+				                                    c11.046,0,20-8.954,20-20C440,379.954,431.046,371,420,371z" />
+                                                <circle cx="299" cy="210" r="20" />
+                                                <circle cx="212" cy="297" r="20" />
+                                                <circle cx="125" cy="210" r="20" />
+                                                <circle cx="125" cy="297" r="20" />
+                                                <circle cx="125" cy="384" r="20" />
+                                                <circle cx="212" cy="384" r="20" />
+                                                <circle cx="212" cy="210" r="20" />
+                                            </g>
+                                        </g>
+                                    </g>
+                            </svg>
+                            @news.Writer, @news.Date.ToString("dd-MM-yyyy")
+                        </a>
+                        <a class="catalog-item__content--category category">@news.SubCategory.Category.CategoryName, @news.SubCategory.SubCategoryName</a>
+                    </div>
+                 </div> 
+                }
+            }
+    </div>
+    </main>
+
+    <aside class="main-aside">
+        <h2>Stiri Externe</h2>
+        @foreach (Models.News news in Model.News) {
+            @if (news.SubCategory.Category.CategoryName == "External") {
+                <article class="aside-article">
+                    <div class="article__image">
+                        <img src="~/Images/@news.Image" class="thumb" />
+                    </div>
+                    <div class="article__content">
+                        <a class="article__content--title" href="@news.RefferenceLink">@news.NewsTitle</a>
+                        <a class="catalog-item__content--data">
+                            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512">
+                                <g>
+                                    <g>
+                                        <g>
+                                            <circle cx="386" cy="210" r="20" />
+                                            <path d="M432,40h-26V20c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20v20h-91V20c0-11.046-8.954-20-20-20
+				                                c-11.046,0-20,8.954-20,20v20h-90V20c0-11.046-8.954-20-20-20s-20,8.954-20,20v20H80C35.888,40,0,75.888,0,120v312
+				                                c0,44.112,35.888,80,80,80h153c11.046,0,20-8.954,20-20c0-11.046-8.954-20-20-20H80c-22.056,0-40-17.944-40-40V120
+				                                c0-22.056,17.944-40,40-40h25v20c0,11.046,8.954,20,20,20s20-8.954,20-20V80h90v20c0,11.046,8.954,20,20,20s20-8.954,20-20V80h91
+				                                v20c0,11.046,8.954,20,20,20c11.046,0,20-8.954,20-20V80h26c22.056,0,40,17.944,40,40v114c0,11.046,8.954,20,20,20
+				                                c11.046,0,20-8.954,20-20V120C512,75.888,476.112,40,432,40z" />
+                                            <path d="M391,270c-66.72,0-121,54.28-121,121s54.28,121,121,121s121-54.28,121-121S457.72,270,391,270z M391,472
+				                                c-44.663,0-81-36.336-81-81s36.337-81,81-81c44.663,0,81,36.336,81,81S435.663,472,391,472z" />
+                                            <path d="M420,371h-9v-21c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20v41c0,11.046,8.954,20,20,20h29
+				                                c11.046,0,20-8.954,20-20C440,379.954,431.046,371,420,371z" />
+                                            <circle cx="299" cy="210" r="20" />
+                                            <circle cx="212" cy="297" r="20" />
+                                            <circle cx="125" cy="210" r="20" />
+                                            <circle cx="125" cy="297" r="20" />
+                                            <circle cx="125" cy="384" r="20" />
+                                            <circle cx="212" cy="384" r="20" />
+                                            <circle cx="212" cy="210" r="20" />
+                                        </g>
+                                    </g>
+                                </g>
+                            </svg>
+                            @news.Writer, @news.Date.ToString("dd-MM-yyyy")
+                        </a>
+                    </div>
+                </article>
+            }
+        }
+@*
+        <article class="aside-article">
+            <div class="article__image">
+                <img src="https://placekitten.com/200/200" class="thumb" />
+            </div>
+            <div class="article__content">
+                <a class="article__content--title">title</a>
+                <a class="article__content--category category">category</a>
+            </div>
+        </article>
+
+        <article class="aside-article">
+            <div class="article__image">
+                <img src="https://placekitten.com/200/200" class="thumb" />
+            </div>
+            <div class="article__content">
+                <a class="article__content--title">title</a>
+                <a class="article__content--category category">category</a>
+            </div>
+        </article>*@
+    </aside>
+</div>

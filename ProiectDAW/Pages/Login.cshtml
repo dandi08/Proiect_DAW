@@ -3,36 +3,36 @@
 @{
 }
 
-<div class="container-login">
-	<div class="screen">
-		<div class="screen__content">
-			@if (Model.errorCode == 1)
-			{
-				<div class="alert">
-					<p>Wrong credentials!</p>
-				</div>
-			}
-			<form class="login" method="post">
-				<div class="login__field">
-					<i class="login__icon fas fa-user"></i>
-					<input asp-for="Account.Username" type="text" class="login__input" placeholder="User name / Email">
-				</div>
-				<div class="login__field">
-					<i class="login__icon fas fa-lock"></i>
-					<input asp-for="Account.Password" type="password" class="login__input" placeholder="Password">
-				</div>
-				<button class="button login__submit">
-					<span class="button__text">Log In Now</span>
-					<i class="button__icon fas fa-chevron-right"></i>
-					<input type="submit" value="Login" />
-				</button>
-			</form>
-		</div>
-		<div class="screen__background">
-			<span class="screen__background__shape screen__background__shape4"></span>
-			<span class="screen__background__shape screen__background__shape3"></span>
-			<span class="screen__background__shape screen__background__shape2"></span>
-			<span class="screen__background__shape screen__background__shape1"></span>
-		</div>
-	</div>
+<div class="container-form">
+    <div class="screen">
+        <div class="screen__content">
+            @if (Model.errorCode == 1)
+            {
+                <div class="alert">
+                    <p>Wrong credentials!</p>
+                </div>
+            }
+
+            <form class="form" method="post">
+                <div class="form__field">
+                    <i class="form__icon fas fa-user"></i>
+                    <input asp-for="Account.Username" type="text" class="form__input" placeholder="User name">
+                </div>
+                <div class="form__field">
+                    <i class="form__icon fas fa-lock"></i>
+                    <input asp-for="Account.Password" type="password" class="form__input" placeholder="Password">
+                </div>
+                <button class="button form__submit">
+                    <span class="button__text">Log In Now</span>
+                    <i class="button__icon fas fa-chevron-right"></i>
+                </button>
+            </form>
+        </div>
+        <div class="screen__background">
+            <span class="screen__background__shape screen__background__shape4"></span>
+            <span class="screen__background__shape screen__background__shape3"></span>
+            <span class="screen__background__shape screen__background__shape2"></span>
+            <span class="screen__background__shape screen__background__shape1"></span>
+        </div>
+    </div>
 </div>

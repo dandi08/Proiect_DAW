@@ -1,0 +1,24 @@
+﻿@page
+@using ProiectDAW.Models
+@model ProiectDAW.Pages.UserProfileModel
+@{
+}
+
+<div>
+    <form class="login" method="post">
+		<p>Your username: @LoggingSystem.GetInstance().Account.Username</p>
+		@foreach (Models.AccountTypes accountType in Model.accountTypes)
+		{
+			@if (@accountType.Id == @LoggingSystem.GetInstance().Account.TypeId)
+			{
+				<label>Your role: @accountType.Type </label>
+			}
+		}
+		<button class="button login__submit">
+			<span class="button__text">Log In Now</span>
+			<i class="button__icon fas fa-chevron-right"></i>
+			<input type="submit" value="Logout" />
+		</button>
+	</form>
+
+</div>
