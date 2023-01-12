@@ -1,10 +1,17 @@
-﻿@page "{NewsId:int}"
+﻿@page "{NewsId:int}/{errorCode:int}"
 @using ProiectDAW.Models
 @model ProiectDAW.Pages.EditNewsPageModel
 @{
 }
 
 <div>
+    @if (Model.errorCode == 1)
+    {
+        <div>
+            <p>Fields can not be empty!</p>
+        </div>
+    }
+
     <h1>Edit your news below:</h1>
 
     <form method="post" id="form-pula2">

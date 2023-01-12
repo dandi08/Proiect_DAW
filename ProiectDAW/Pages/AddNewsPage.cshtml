@@ -1,9 +1,16 @@
-﻿@page 
+﻿@page "{errorCode:int}"
 @model AddNewsPage
 @{
 }
 
 <div>
+    @if (Model.errorCode == 1)
+    {
+        <div>
+            <p>Fields can not be empty!</p>
+        </div>
+    }
+
     <h1>Add your news below:</h1>
 
     <form method="post" asp-page-handler="AddNews">

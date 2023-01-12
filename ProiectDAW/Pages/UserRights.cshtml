@@ -1,0 +1,57 @@
+﻿@page
+@using ProiectDAW.Models
+@model UserRightsModel
+@{
+}
+
+<div class="catalog">
+    @foreach (Models.Accounts account in Model.accounts)
+    {
+
+        @if (account.TypeId == Pages.UserRightsModel.userId)
+        {
+            <p>Username: @account.Username</p>
+
+            @foreach (Models.AccountTypes accountType in Model.accountTypes)
+            {
+                @if (@accountType.Id == @account.TypeId)
+                {
+                    <label> Role: @accountType.Type </label>
+                }
+            }
+
+            <form method="post" asp-page-handler="Add">
+            <input asp-for="@account.Id" type="hidden" />
+
+            <input asp-for="@account.Password" type="hidden" />
+
+            <input asp-for="@account.Username" type="hidden" />
+
+            <input type="submit" value="Make editor" />
+            </form>
+        } else if (account.TypeId == Pages.UserRightsModel.editorId)
+        {
+            <p>Username: @account.Username</p>
+
+            @foreach (Models.AccountTypes accountType in Model.accountTypes)
+            {
+                @if (@accountType.Id == @account.TypeId)
+                {
+                    <label> Role: @accountType.Type </label>
+                }
+            }
+
+            <form method="post" asp-page-handler="Remove">
+                <input asp-for="@account.Id" type="hidden" />
+
+                <input asp-for="@account.Password" type="hidden" />
+
+                <input asp-for="@account.Username" type="hidden" />
+
+                <input type="submit" value="Remove editor rights" />
+            </form>
+        }
+
+         
+    }
+</div>

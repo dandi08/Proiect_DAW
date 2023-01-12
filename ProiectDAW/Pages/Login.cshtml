@@ -1,4 +1,4 @@
-﻿@page
+﻿@page "{errorCode:int}"
 @model ProiectDAW.Pages.LoginModel
 @{
 }
@@ -17,6 +17,12 @@
 <div class="container-login">
 	<div class="screen">
 		<div class="screen__content">
+			@if (Model.errorCode == 1)
+			{
+				<div class="alert">
+					<p>Wrong credentials!</p>
+				</div>
+			}
 			<form class="login" method="post">
 				<div class="login__field">
 					<i class="login__icon fas fa-user"></i>
