@@ -29,6 +29,11 @@ namespace ProiectDAW.Models
             return accountsList.FirstOrDefault(a => a.Username == account.Username && a.Password == account.Password);
         }
 
+        public Accounts SearchUsername(Accounts account, List<Accounts> accountsList)
+        {
+            return accountsList.FirstOrDefault(a => a.Username == account.Username);
+        }
+
         public void AddAccount(Accounts account)
         {
             var hashedPassword = HashPassword(account.Password);

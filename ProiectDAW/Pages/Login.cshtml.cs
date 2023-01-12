@@ -9,6 +9,7 @@ namespace ProiectDAW.Pages
 {
     public class LoginModel : PageModel
     {
+        public int errorCode { get; set; }
         public bool IsLoggedIn { get; set; }
         [BindProperty]
         public Accounts Account { get; set; }
@@ -21,8 +22,9 @@ namespace ProiectDAW.Pages
             this.logger = logger;
             this.newsContext = newsContext;
         }
-        public void OnGet()
+        public void OnGet(int errorCode)
         {
+            this.errorCode = errorCode;
             Account = new Accounts();
         }
         public IActionResult OnPost()
@@ -32,10 +34,10 @@ namespace ProiectDAW.Pages
             if (account != null)
             {
                 loggingSystem.Account = account;
-                return Redirect("Index");
+                return RedirectToPage("Index");
             }
 
-            return Redirect("Error");
+            return RedirectToPage("Login", new { errorCode = 1 });
         }
 
     }

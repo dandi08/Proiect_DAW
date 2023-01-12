@@ -64,7 +64,7 @@
     <div class="container-user-comment">
         <br />
         <p>Your Comment</p>
-        <form method="post" id="form-pula">
+        <form method="post" id="form-body">
             <input asp-for="comm.NewsId" type="hidden" />
             <label>Name</label>
             <br />
@@ -72,7 +72,7 @@
             <br />
             <label>Comment:</label>
             <br />
-            <textarea asp-for="comm.Body" form="form-pula" placeholder="Comentariul tau..."></textarea>
+            <textarea asp-for="comm.Body" form="form-body" placeholder="Comentariul tau..."></textarea>
             <br />
             <input type="submit" value="Save" />
         </form>

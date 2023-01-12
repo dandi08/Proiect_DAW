@@ -1,0 +1,16 @@
+﻿@page 
+@model AddNewsPage
+@{
+}
+
+    <h2>Would you like to add your own news or would you like to share a news from a different place?</h2>
+<div class="container-test" style="display: flex; justify-content: space-between;">
+    <div style="height: 500px;">
+        <p>If you would like to add your own news select below:</p>
+        <button><a asp-route-errorCode="0" asp-page="\AddInternalNewsPage">Go! </a></button>
+    </div>
+    <div style="height: 500px;">
+                <p>If you would like to add your own news select below:</p>
+        <button><a asp-route-errorCode="0" asp-page="\AddExternalNewsPage">Go! </a></button>
+    </div>
+</div>

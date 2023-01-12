@@ -1,13 +1,21 @@
-﻿@page "{NewsId:int}"
+﻿@page "{NewsId:int}/{errorCode:int}"
 @using ProiectDAW.Models
 @model ProiectDAW.Pages.EditNewsPageModel
 @{
 }
 
 <div>
+
+    @if (Model.errorCode == 1)
+    {
+        <div>
+            <p>Fields can not be empty!</p>
+        </div>
+    }
+
     <h1>Edit your news below:</h1>
 
-    <form method="post" id="form-pula2">
+    <form method="post" id="form-body2">
         <input asp-for="news.Id" type="hidden" /> <br></br>
         <label>Title: </label>
         <input asp-for="news.NewsTitle" /> <br></br>
@@ -19,7 +27,7 @@
         <input asp-for="news.Writer" /><br></br>
 
         <label>The body: </label><br />
-        <textarea asp-for="news.Body" form="form-pula2" placeholder="Comentariul tau..."></textarea>
+        <textarea asp-for="news.Body" form="form-body2" placeholder="Comentariul tau..."></textarea>
         <br></br>
 
         <label>Subcategory: </label>
