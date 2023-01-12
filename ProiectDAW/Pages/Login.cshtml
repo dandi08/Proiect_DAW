@@ -13,6 +13,7 @@
    <input type="submit" value="Login" />
 </form>*@
 
+<<<<<<< HEAD
 <div class="container-login">
 	<div class="screen">
 		<div class="screen__content">
@@ -29,6 +30,24 @@
 					<span class="button__text">Log In Now</span>
 					<i class="button__icon fas fa-chevron-right"></i>
 					<input type="submit" value="Login" />
+=======
+<div class="container-form">
+	<div class="screen">
+		<div class="screen__content">
+			<form class="form" method="post">
+				<div class="form__field">
+					<i class="form__icon fas fa-user"></i>
+					<input asp-for="Account.Username" type="text" class="form__input" placeholder="User name / Email">
+				</div>
+				<div class="form__field">
+					<i class="form__icon fas fa-lock"></i>
+					<input asp-for="Account.Password" type="password" class="form__input" placeholder="Password">
+				</div>
+				<input type="submit" value="Login" class="button form__submit" />
+				<button class="button form__submit">
+					<span class="button__text">Register</span>
+					<i class="button__icon fas fa-chevron-right"></i>
+>>>>>>> Cristi
 				</button>
 			</form>
 		</div>

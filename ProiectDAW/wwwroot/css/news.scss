@@ -1,0 +1,54 @@
+// Importing variables
+@import 'variables.scss';
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+.news {
+    &__internal, &__external {
+        & .button-19 {
+            height: 150px;
+            width: 400px;
+
+            & > a {
+                color: $white;
+                text-decoration: none;
+            }
+        }
+    }
+
+    &__image {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        color: $white;
+        font-style: italic;
+        font-size: .8125rem;
+
+        & > svg {
+
+            fill: $white;
+            width: 1rem;
+        }
+        margin-bottom: 1rem;
+    }
+
+    &__wrapper {
+        display: flex;
+
+        & > a {
+            flex-basis: 50%;
+            text-decoration: none;
+
+            &:hover {
+                color: $gray-700;
+            }
+        }
+
+        & > img {
+            padding: 10px;
+        }
+
+
+    }
+}
+

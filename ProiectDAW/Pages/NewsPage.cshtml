@@ -3,31 +3,53 @@
 @{
 }
 
-<p>Title @Model.News.NewsTitle</p>
-<p>Writer @Model.News.Writer</p>
-<p>Content @Model.News.Body</p>
-<p>Date @Model.News.Date.ToString("dd-MM-yyyy")</p>
-<h3>Comments</h3>
-<style>
-    .user_name{
-    font-size:14px;
-    font-weight: bold;
-}
-.comments-list .media{
-    border-bottom: 1px dotted #ccc;
-}
-</style>
-</div>
-<div class="container">
+<div class="container-page">
+    <div class="container-news">
+        <h1>@Model.News.NewsTitle</h1>
+        <a class="news__image" style="color: white; justify-content: flex-start;">
+            <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512">
+                <g>
+                    <g>
+                        <g>
+                            <circle cx="386" cy="210" r="20" />
+                            <path d="M432,40h-26V20c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20v20h-91V20c0-11.046-8.954-20-20-20
+				                                c-11.046,0-20,8.954-20,20v20h-90V20c0-11.046-8.954-20-20-20s-20,8.954-20,20v20H80C35.888,40,0,75.888,0,120v312
+				                                c0,44.112,35.888,80,80,80h153c11.046,0,20-8.954,20-20c0-11.046-8.954-20-20-20H80c-22.056,0-40-17.944-40-40V120
+				                                c0-22.056,17.944-40,40-40h25v20c0,11.046,8.954,20,20,20s20-8.954,20-20V80h90v20c0,11.046,8.954,20,20,20s20-8.954,20-20V80h91
+				                                v20c0,11.046,8.954,20,20,20c11.046,0,20-8.954,20-20V80h26c22.056,0,40,17.944,40,40v114c0,11.046,8.954,20,20,20
+				                                c11.046,0,20-8.954,20-20V120C512,75.888,476.112,40,432,40z" />
+                            <path d="M391,270c-66.72,0-121,54.28-121,121s54.28,121,121,121s121-54.28,121-121S457.72,270,391,270z M391,472
+				                                c-44.663,0-81-36.336-81-81s36.337-81,81-81c44.663,0,81,36.336,81,81S435.663,472,391,472z" />
+                            <path d="M420,371h-9v-21c0-11.046-8.954-20-20-20c-11.046,0-20,8.954-20,20v41c0,11.046,8.954,20,20,20h29
+				                                c11.046,0,20-8.954,20-20C440,379.954,431.046,371,420,371z" />
+                            <circle cx="299" cy="210" r="20" />
+                            <circle cx="212" cy="297" r="20" />
+                            <circle cx="125" cy="210" r="20" />
+                            <circle cx="125" cy="297" r="20" />
+                            <circle cx="125" cy="384" r="20" />
+                            <circle cx="212" cy="384" r="20" />
+                            <circle cx="212" cy="210" r="20" />
+                        </g>
+                    </g>
+                </g>
+            </svg>
+            @Model.News.Writer, @Model.News.Date.ToString("dd-MM-yyyy")
+        </a>
+        <div class="news__wrapper">
+            <a class="catalog-item__content--description">@Model.News.Body</a>
+            <img src="https://placekitten.com/200/200" class="thumb-large" style="width: 60%" />
+        </div>
+    </div>
+
+
+    <div class="container-commments">
+        <h2>Comments (@Model.Comments.Count)</h2>
         <div class="row">
             <div class="col-md-8">
-                <div class="page-header">
-                    <h1><small class="pull-right">@Model.Comments.Count comments</small> Comments </h1>
-                </div>
                 <div class="comments-list">
                     <div class="media">
                         <div class="media-body">
-                            @foreach(Models.Comments com in @Model.Comments)
+                            @foreach (Models.Comments com in @Model.Comments)
                             {
                                 <h4 class="media-heading user_name"> @com.Name </h4>
                                 <p>@com.Body</p>
@@ -38,20 +60,31 @@
             </div>
         </div>
     </div>
-<div class="container">
-    <br />
-    <p>Your Comment</p>
-    <form method="post">
-        <input asp-for="comm.NewsId" type="hidden"/>
-        <label>Name</label>
-        <input asp-for="comm.Name" />
-        <label>Comment:</label>
-        <input asp-for="comm.Body" />
-        <input type="submit" value="Save" />
-    </form>
+
+    <div class="container-user-comment">
+        <br />
+        <p>Your Comment</p>
+        <form method="post" id="form-pula">
+            <input asp-for="comm.NewsId" type="hidden" />
+            <label>Name</label>
+            <br />
+            <input asp-for="comm.Name" />
+            <br />
+            <label>Comment:</label>
+            <br />
+            <textarea asp-for="comm.Body" form="form-pula" placeholder="Comentariul tau..."></textarea>
+            <br />
+            <input type="submit" value="Save" />
+        </form>
+
+
+
+    </div>
+
+    <p> <a asp-page="/Index">Back to home page.</a> </p>
+    <p>Do you want to delete this entry?</p>
+    <button><a asp-page="\DeleteNewsPage" asp-route-NewsId="@Model.News.Id">Delete </a></button>
+    <p>Do you want to edit this entry?</p>
+    <button><a asp-page="\EditNewsPage" asp-route-NewsId="@Model.News.Id">Edit </a></button>
+
 </div>
-<p> <a asp-page="/Index">Back to home page.</a> </p>
-<p>Do you want to delete this entry?</p>
-<button><a asp-page="\DeleteNewsPage" asp-route-NewsId="@Model.News.Id">Delete </a></button>
-<p>Do you want to edit this entry?</p>
-<button><a asp-page="\EditNewsPage" asp-route-NewsId="@Model.News.Id">Edit </a></button>

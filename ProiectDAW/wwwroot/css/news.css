@@ -1,1 +1,39 @@
+<<<<<<< HEAD
 /*# sourceMappingURL=news.css.map */
+=======
+@import url(https://fonts.googleapis.com/css?family=Lato);
+.news__internal .button-19, .news__external .button-19 {
+  height: 150px;
+  width: 400px;
+}
+.news__internal .button-19 > a, .news__external .button-19 > a {
+  color: #fff;
+  text-decoration: none;
+}
+.news__image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-style: italic;
+  font-size: 0.8125rem;
+  margin-bottom: 1rem;
+}
+.news__image > svg {
+  fill: #fff;
+  width: 1rem;
+}
+.news__wrapper {
+  display: flex;
+}
+.news__wrapper > a {
+  flex-basis: 50%;
+  text-decoration: none;
+}
+.news__wrapper > a:hover {
+  color: #495057;
+}
+.news__wrapper > img {
+  padding: 10px;
+}/*# sourceMappingURL=news.css.map */
+>>>>>>> Cristi

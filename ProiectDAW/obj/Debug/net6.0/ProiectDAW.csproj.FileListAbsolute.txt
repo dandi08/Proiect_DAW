@@ -442,6 +442,7 @@ C:\Users\crisi\Desktop\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ref\ProiectDAW.dl
 C:\Users\User\Documents\GitHub\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\NaCl.dll
 C:\Users\User\Documents\GitHub\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\User\Documents\GitHub\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\PusherServer.dll
+<<<<<<< HEAD
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.csproj.AssemblyReference.cache
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.AssemblyInfoInputs.cache
@@ -532,3 +533,5 @@ C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.csproj.CopyComplete
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.genruntimeconfig.cache
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ref\ProiectDAW.dll
+=======
+>>>>>>> Cristi

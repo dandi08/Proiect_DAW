@@ -24,6 +24,10 @@ article {
 
         & > a {
             text-decoration: none;
+<<<<<<< HEAD
+=======
+            text-align: start;
+>>>>>>> Cristi
         }
 
         &--title {
@@ -35,6 +39,25 @@ article {
         &--description {
             color: $gray-700;
         }
+<<<<<<< HEAD
+=======
+
+        &--data {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            color: $gray-500;
+            font-style: italic;
+            font-size: .8125rem;
+
+            & > svg {
+
+                fill: $gray-500;
+                width: 1rem;
+            }
+        }
+>>>>>>> Cristi
     }
 }
 

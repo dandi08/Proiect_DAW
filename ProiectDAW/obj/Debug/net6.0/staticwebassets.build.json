@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "HKEF0q/Al0JI1VUjZ6PKX622kJ01ELAi63RvXXNAzIc=",
+=======
+  "Hash": "9pzNvUJKD62HM6Gp2fwGQeJVFjrCi2hkq6LUNx2bFt4=",
+>>>>>>> Cristi
   "Source": "ProiectDAW",
   "BasePath": "_content/ProiectDAW",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "ProiectDAW\\wwwroot",
       "Source": "ProiectDAW",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProiectDAW.styles.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProiectDAW.styles.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "ProiectDAW.styles.css",
       "AssetKind": "All",
@@ -31,6 +46,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProiectDAW.styles.css"
     },
     {
@@ -38,6 +54,15 @@
       "SourceId": "ProiectDAW",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProiectDAW.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "ProiectDAW.bundle.scp.css",
       "AssetKind": "All",
@@ -48,6 +73,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css"
     },
     {
@@ -55,6 +81,15 @@
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\blurry-gradient-haikei.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "blurry-gradient-haikei.png",
       "AssetKind": "All",
@@ -68,10 +103,17 @@
       "OriginalItemSpec": "wwwroot\\blurry-gradient-haikei.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/aside.css",
       "AssetKind": "All",
@@ -85,10 +127,17 @@
       "OriginalItemSpec": "wwwroot\\css\\aside.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/aside.css.map",
       "AssetKind": "All",
@@ -102,10 +151,17 @@
       "OriginalItemSpec": "wwwroot\\css\\aside.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/aside.scss",
       "AssetKind": "All",
@@ -119,10 +175,17 @@
       "OriginalItemSpec": "wwwroot\\css\\aside.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/catalog.css",
       "AssetKind": "All",
@@ -136,10 +199,17 @@
       "OriginalItemSpec": "wwwroot\\css\\catalog.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/catalog.css.map",
       "AssetKind": "All",
@@ -153,10 +223,17 @@
       "OriginalItemSpec": "wwwroot\\css\\catalog.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\catalog.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/catalog.scss",
       "AssetKind": "All",
@@ -170,10 +247,17 @@
       "OriginalItemSpec": "wwwroot\\css\\catalog.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/container.css",
       "AssetKind": "All",
@@ -187,10 +271,17 @@
       "OriginalItemSpec": "wwwroot\\css\\container.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/container.css.map",
       "AssetKind": "All",
@@ -204,10 +295,17 @@
       "OriginalItemSpec": "wwwroot\\css\\container.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\container.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/container.scss",
       "AssetKind": "All",
@@ -221,10 +319,17 @@
       "OriginalItemSpec": "wwwroot\\css\\container.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/footer.css",
       "AssetKind": "All",
@@ -238,10 +343,17 @@
       "OriginalItemSpec": "wwwroot\\css\\footer.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/footer.css.map",
       "AssetKind": "All",
@@ -255,10 +367,17 @@
       "OriginalItemSpec": "wwwroot\\css\\footer.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/footer.scss",
       "AssetKind": "All",
@@ -272,10 +391,68 @@
       "OriginalItemSpec": "wwwroot\\css\\footer.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\forms.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/forms.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\forms.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/forms.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\forms.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/forms.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -289,10 +466,17 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/login.css.map",
       "AssetKind": "All",
@@ -306,10 +490,17 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/login.scss",
       "AssetKind": "All",
@@ -323,10 +514,17 @@
       "OriginalItemSpec": "wwwroot\\css\\login.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/nav.css",
       "AssetKind": "All",
@@ -340,10 +538,17 @@
       "OriginalItemSpec": "wwwroot\\css\\nav.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/nav.css.map",
       "AssetKind": "All",
@@ -357,10 +562,17 @@
       "OriginalItemSpec": "wwwroot\\css\\nav.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/nav.scss",
       "AssetKind": "All",
@@ -374,10 +586,17 @@
       "OriginalItemSpec": "wwwroot\\css\\nav.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/news.css",
       "AssetKind": "All",
@@ -391,10 +610,17 @@
       "OriginalItemSpec": "wwwroot\\css\\news.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/news.css.map",
       "AssetKind": "All",
@@ -408,10 +634,17 @@
       "OriginalItemSpec": "wwwroot\\css\\news.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/news.scss",
       "AssetKind": "All",
@@ -425,10 +658,68 @@
       "OriginalItemSpec": "wwwroot\\css\\news.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\proposals.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/proposals.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\proposals.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\proposals.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/proposals.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\proposals.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\proposals.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/proposals.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\proposals.scss"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -442,10 +733,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/site.css.map",
       "AssetKind": "All",
@@ -459,10 +757,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -476,10 +781,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/variables.css",
       "AssetKind": "All",
@@ -493,10 +805,17 @@
       "OriginalItemSpec": "wwwroot\\css\\variables.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/variables.css.map",
       "AssetKind": "All",
@@ -510,10 +829,17 @@
       "OriginalItemSpec": "wwwroot\\css\\variables.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.scss",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\variables.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "css/variables.scss",
       "AssetKind": "All",
@@ -527,10 +853,17 @@
       "OriginalItemSpec": "wwwroot\\css\\variables.scss"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\favicon.ico",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\favicon.ico",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -544,10 +877,68 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\js\\site.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\4f6af385-96d9-4fac-88a5-6052eeca66e6-orar.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/4f6af385-96d9-4fac-88a5-6052eeca66e6-orar.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\4f6af385-96d9-4fac-88a5-6052eeca66e6-orar.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\8a422523-239a-48e6-8289-a1ef2175101f-CARSHARING.png.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/8a422523-239a-48e6-8289-a1ef2175101f-CARSHARING.png.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\8a422523-239a-48e6-8289-a1ef2175101f-CARSHARING.png.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\efc61f35-d3cf-4a23-8939-5a16ccfec1d4-CARSHARING.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/efc61f35-d3cf-4a23-8939-5a16ccfec1d4-CARSHARING.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\efc61f35-d3cf-4a23-8939-5a16ccfec1d4-CARSHARING.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\js\\site.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -561,10 +952,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -578,10 +976,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -595,10 +1000,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -612,10 +1024,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -629,10 +1048,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -646,10 +1072,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +1096,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +1120,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +1144,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -714,10 +1168,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -731,10 +1192,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -748,10 +1216,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -765,10 +1240,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -782,10 +1264,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -799,10 +1288,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -816,10 +1312,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -833,10 +1336,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -850,10 +1360,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -867,10 +1384,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -884,10 +1408,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -901,10 +1432,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -918,10 +1456,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -935,10 +1480,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -952,10 +1504,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -969,10 +1528,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -986,10 +1552,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1003,10 +1576,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1020,10 +1600,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1037,10 +1624,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1054,10 +1648,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1071,10 +1672,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1088,10 +1696,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1720,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1122,10 +1744,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1139,10 +1768,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1156,10 +1792,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1173,10 +1816,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1190,10 +1840,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1207,10 +1864,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1224,10 +1888,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1241,10 +1912,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1258,10 +1936,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1275,10 +1960,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1292,10 +1984,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +2008,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1326,10 +2032,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1343,10 +2056,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1360,10 +2080,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1377,10 +2104,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1394,10 +2128,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1411,10 +2152,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1428,10 +2176,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1445,10 +2200,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1462,10 +2224,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1479,10 +2248,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1496,10 +2272,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1513,10 +2296,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+>>>>>>> Cristi
       "BasePath": "_content/ProiectDAW",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

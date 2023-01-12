@@ -21,6 +21,13 @@
 
 .article__content {
   margin-left: 1rem;
+<<<<<<< HEAD
+=======
+  height: 100%;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+>>>>>>> Cristi
 }
 .article__content > * {
   text-decoration: none;

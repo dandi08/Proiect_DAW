@@ -5,7 +5,15 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
+<<<<<<< HEAD
 .container {
+=======
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+.container {
+  max-width: 960px;
+>>>>>>> Cristi
   padding-top: 1rem;
   background-color: #fff;
   display: flex;
@@ -125,6 +133,13 @@ svg {
 
 .article__content {
   margin-left: 1rem;
+<<<<<<< HEAD
+=======
+  height: 100%;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+>>>>>>> Cristi
 }
 .article__content > * {
   text-decoration: none;
@@ -156,6 +171,10 @@ article {
 }
 .catalog-item__content > a {
   text-decoration: none;
+<<<<<<< HEAD
+=======
+  text-align: start;
+>>>>>>> Cristi
 }
 .catalog-item__content--title {
   color: #343a40;
@@ -165,6 +184,21 @@ article {
 .catalog-item__content--description {
   color: #495057;
 }
+<<<<<<< HEAD
+=======
+.catalog-item__content--data {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #adb5bd;
+  font-style: italic;
+  font-size: 0.8125rem;
+}
+.catalog-item__content--data > svg {
+  fill: #adb5bd;
+  width: 1rem;
+}
+>>>>>>> Cristi
 
 .catalog {
   display: grid;
@@ -206,15 +240,23 @@ article {
   font-family: Raleway, sans-serif;
 }
 
+<<<<<<< HEAD
 body {
   background: linear-gradient(90deg, #C7C5F4, #776BCC);
 }
 
 .container-login {
+=======
+.container-form {
+>>>>>>> Cristi
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+<<<<<<< HEAD
+=======
+  flex-direction: column;
+>>>>>>> Cristi
 }
 
 .screen {
@@ -223,6 +265,10 @@ body {
   height: 600px;
   width: 360px;
   box-shadow: 0px 0px 24px #5C5696;
+<<<<<<< HEAD
+=======
+  margin-top: 1rem;
+>>>>>>> Cristi
 }
 
 .screen__content {
@@ -283,24 +329,40 @@ body {
   border-radius: 60px;
 }
 
+<<<<<<< HEAD
 .login {
+=======
+.form {
+>>>>>>> Cristi
   width: 320px;
   padding: 30px;
   padding-top: 156px;
 }
 
+<<<<<<< HEAD
 .login__field {
+=======
+.form__field {
+>>>>>>> Cristi
   padding: 20px 0px;
   position: relative;
 }
 
+<<<<<<< HEAD
 .login__icon {
+=======
+.form__icon {
+>>>>>>> Cristi
   position: absolute;
   top: 30px;
   color: #7875B5;
 }
 
+<<<<<<< HEAD
 .login__input {
+=======
+.form__input {
+>>>>>>> Cristi
   border: none;
   border-bottom: 2px solid #D1D1D4;
   background: none;
@@ -309,16 +371,29 @@ body {
   font-weight: 700;
   width: 75%;
   transition: 0.2s;
+<<<<<<< HEAD
 }
 
 .login__input:active,
 .login__input:focus,
 .login__input:hover {
+=======
+  font-size: 1rem;
+}
+
+.form__input:active,
+.form__input:focus,
+.form__input:hover {
+>>>>>>> Cristi
   outline: none;
   border-bottom-color: #6A679E;
 }
 
+<<<<<<< HEAD
 .login__submit {
+=======
+.form__submit {
+>>>>>>> Cristi
   background: #fff;
   font-size: 14px;
   margin-top: 30px;
@@ -336,9 +411,15 @@ body {
   transition: 0.2s;
 }
 
+<<<<<<< HEAD
 .login__submit:active,
 .login__submit:focus,
 .login__submit:hover {
+=======
+.form__submit:active,
+.form__submit:focus,
+.form__submit:hover {
+>>>>>>> Cristi
   border-color: #6A679E;
   outline: none;
 }
@@ -349,7 +430,11 @@ body {
   color: #7875B5;
 }
 
+<<<<<<< HEAD
 .social-login {
+=======
+.social-form {
+>>>>>>> Cristi
   position: absolute;
   height: 140px;
   width: 160px;
@@ -365,17 +450,92 @@ body {
   justify-content: center;
 }
 
+<<<<<<< HEAD
 .social-login__icon {
+=======
+.social-form__icon {
+>>>>>>> Cristi
   padding: 20px 10px;
   color: #fff;
   text-decoration: none;
   text-shadow: 0px 0px 8px #7875B5;
 }
 
+<<<<<<< HEAD
 .social-login__icon:hover {
   transform: scale(1.5);
 }
 
+=======
+.social-form__icon:hover {
+  transform: scale(1.5);
+}
+
+.form__title {
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.form-control {
+  background: none !important;
+  border: none !important;
+  padding-left: 0 !important;
+}
+
+.proposal-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.container-proposal {
+  width: 33%;
+}
+.container-proposal > * {
+  color: #212529;
+}
+
+.page-header h1 {
+  white-space: nowrap;
+}
+
+.news__internal .button-19, .news__external .button-19 {
+  height: 150px;
+  width: 400px;
+}
+.news__internal .button-19 > a, .news__external .button-19 > a {
+  color: #fff;
+  text-decoration: none;
+}
+.news__image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-style: italic;
+  font-size: 0.8125rem;
+  margin-bottom: 1rem;
+}
+.news__image > svg {
+  fill: #fff;
+  width: 1rem;
+}
+.news__wrapper {
+  display: flex;
+}
+.news__wrapper > a {
+  flex-basis: 50%;
+  text-decoration: none;
+}
+.news__wrapper > a:hover {
+  color: #495057;
+}
+.news__wrapper > img {
+  padding: 10px;
+}
+
+>>>>>>> Cristi
 * {
   font-family: Lato;
   transition: all 0.25s ease-in-out;
@@ -383,9 +543,20 @@ body {
   padding: 0;
 }
 
+<<<<<<< HEAD
 body {
   background-image: url("../blurry-gradient-haikei.png") !important;
   background-size: 100%;
+=======
+.container-page {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background: linear-gradient(90deg, #C7C5F4, #776BCC);
+>>>>>>> Cristi
 }
 
 a {
@@ -413,8 +584,8 @@ body {
   margin-bottom: 60px;
 }
 
-label {
-  color: red;
+img {
+  border-radius: 3%;
 }
 
 img {
@@ -425,6 +596,13 @@ img {
   color: #20c997;
 }
 
+.category {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #495057;
+  font-size: 0.875rem;
+}
 .category::before {
   content: "a";
   background-color: #dc3545;
@@ -464,4 +642,86 @@ img {
   width: 100%;
   height: auto;
   max-height: 300px;
+<<<<<<< HEAD
+=======
+}
+
+/* CSS */
+.button-19 {
+  -webkit-appearance: button;
+     -moz-appearance: button;
+          appearance: button;
+  background-color: #1899D6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter 0.2s;
+  -moz-user-select: none;
+   -ms-user-select: none;
+       user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.button-19:after {
+  background-clip: padding-box;
+  background-color: #1CB0F6;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-19:main,
+.button-19:focus {
+  -webkit-user-select: auto;
+     -moz-user-select: auto;
+      -ms-user-select: auto;
+          user-select: auto;
+}
+
+.button-19:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-19:disabled {
+  cursor: auto;
+}
+
+.button-19 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+.button-19:hover {
+  color: #fff;
+>>>>>>> Cristi
 }/*# sourceMappingURL=site.css.map */

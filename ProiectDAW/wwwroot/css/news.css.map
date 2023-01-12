@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"sources":[],"names":[],"mappings":"","file":"news.css"}
+=======
+{"version":3,"sources":["news.scss","news.css","variables.scss"],"names":[],"mappings":"AAEQ,yDAAA;AAIA;EACI,aAAA;EACA,YAAA;ACJZ;ADMY;EACI,WEVJ;EFWI,qBAAA;ACJhB;ADSI;EACI,aAAA;EACA,mBAAA;EACA,uBAAA;EAEA,WErBI;EFsBJ,kBAAA;EACA,oBAAA;EAOA,mBAAA;ACdR;ADSQ;EAEI,UE3BA;EF4BA,WAAA;ACRZ;ADaI;EACI,aAAA;ACXR;ADaQ;EACI,eAAA;EACA,qBAAA;ACXZ;ADaY;EACI,cElCL;ADuBX;ADeQ;EACI,aAAA;ACbZ","file":"news.css"}
+>>>>>>> Cristi

@@ -1,22 +1,13 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+// Importing variables
+@import 'variables.scss';
+@import url(https://fonts.googleapis.com/css?family=Lato);
 
-* {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;	
-	font-family: Raleway, sans-serif;
-}
-
-<<<<<<< HEAD
-body {
-	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
-}
-
-.container-login {
+.container-form {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	min-height: 100vh;
+    flex-direction: column;
 }
 
 .screen {		
@@ -25,6 +16,7 @@ body {
 	height: 600px;
 	width: 360px;	
 	box-shadow: 0px 0px 24px #5C5696;
+    margin-top: 1rem;
 }
 
 .screen__content {
@@ -85,24 +77,24 @@ body {
 	border-radius: 60px;
 }
 
-.login {
+.form {
 	width: 320px;
 	padding: 30px;
 	padding-top: 156px;
 }
 
-.login__field {
+.form__field {
 	padding: 20px 0px;	
 	position: relative;	
 }
 
-.login__icon {
+.form__icon {
 	position: absolute;
 	top: 30px;
 	color: #7875B5;
 }
 
-.login__input {
+.form__input {
 	border: none;
 	border-bottom: 2px solid #D1D1D4;
 	background: none;
@@ -111,16 +103,17 @@ body {
 	font-weight: 700;
 	width: 75%;
 	transition: .2s;
+    font-size: 1rem;
 }
 
-.login__input:active,
-.login__input:focus,
-.login__input:hover {
+.form__input:active,
+.form__input:focus,
+.form__input:hover {
 	outline: none;
 	border-bottom-color: #6A679E;
 }
 
-.login__submit {
+.form__submit {
 	background: #fff;
 	font-size: 14px;
 	margin-top: 30px;
@@ -138,9 +131,9 @@ body {
 	transition: .2s;
 }
 
-.login__submit:active,
-.login__submit:focus,
-.login__submit:hover {
+.form__submit:active,
+.form__submit:focus,
+.form__submit:hover {
 	border-color: #6A679E;
 	outline: none;
 }
@@ -151,7 +144,7 @@ body {
 	color: #7875B5;
 }
 
-.social-login {	
+.social-form {	
 	position: absolute;
 	height: 140px;
 	width: 160px;
@@ -167,15 +160,27 @@ body {
 	justify-content: center;
 }
 
-.social-login__icon {
+.social-form__icon {
 	padding: 20px 10px;
 	color: #fff;
 	text-decoration: none;	
 	text-shadow: 0px 0px 8px #7875B5;
 }
 
-.social-login__icon:hover {
+.social-form__icon:hover {
 	transform: scale(1.5);	
 }
-=======
->>>>>>> Cristi
+
+.form {
+    &__title {
+        text-align: center;
+        color: $white;
+        text-transform: uppercase;
+    }
+}
+
+.form-control {
+	background: none!important;
+    border: none!important;
+	padding-left: 0!important;
+}
