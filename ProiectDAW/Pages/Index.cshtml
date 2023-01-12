@@ -9,7 +9,13 @@
     <div class="catalog">
         @foreach (Models.News news in Model.News)
         {
+<<<<<<< HEAD
             <div class="text-center catalog-item">
+=======
+                @if (news.SubCategory.CategoryId != 1)
+                {
+                   <div class="text-center catalog-item">
+>>>>>>> Cristi
                 @if (Model.News.First() == news) {
                     <div class="catalog-item__image">
                             <img src="~/Images/@news.Image" class="thumb-large">
@@ -55,7 +61,13 @@
                     </a>
                     <a class="catalog-item__content--category category">@news.SubCategory.Category.CategoryName, @news.SubCategory.SubCategoryName</a>
                 </div>
+<<<<<<< HEAD
             </div>
+=======
+            </div> 
+                }
+                
+>>>>>>> Cristi
         }
     </div>
 
@@ -103,7 +115,11 @@
     <aside class="main-aside">
         <h2>Stiri Externe</h2>
         @foreach (Models.News news in Model.News) {
+<<<<<<< HEAD
             @if (news.SubCategory.Category.CategoryName == "Extern") {
+=======
+            @if (news.SubCategory.Category.CategoryName == "External") {
+>>>>>>> Cristi
                 <article class="aside-article">
                     <div class="article__image">
                         <img src="~/Images/@news.Image" class="thumb" />

@@ -1,0 +1,72 @@
+﻿@page "{errorCode:int}"
+@model AddInternalNewsPage
+@{
+}
+
+<div>
+    @if (Model.errorCode == 1)
+    {
+        <div>
+            <p>Fields can not be empty!</p>
+        </div>
+    }
+
+    <h1>Add your news below:</h1>
+
+    <form method="post" id="form-body-addIntern" enctype="multipart/form-data" asp-page-handler="AddInternalNews" >
+        <label>Title: </label>
+        <input asp-for="news.NewsTitle" /> <br></br>
+
+        <label>Lead: </label>
+        <input asp-for="news.Lead" /><br></br>
+
+        <label>Writer: </label>
+        <input asp-for="news.Writer" /><br></br>
+
+        <label>The body: </label><br />
+        <textarea asp-for="news.Body" rows="3" form="form-body-addIntern" placeholder="The Story ..."></textarea>
+        <br></br>
+
+        <label>Subcategory: </label>
+        <select asp-for="news.SubCategoryId" asp-items="Model.subcategories">
+            
+        </select>
+        <br></br>
+        <label>Date: </label>
+        <input asp-for="news.Date" /><br></br>
+            <div class="form-control">
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+        <input type="submit" value="Submit" />
+        <button><a asp-page="\Index">Cancel </a></button>
+
+    </form>
+
+        <h1>Add a new category:</h1>
+
+    <form method="post" asp-page-handler="AddCategory">
+        <label>Subcategory name: </label>
+        <input asp-for="category.CategoryName" /> <br></br>
+
+        <input type="submit" value="Submit" />
+
+    </form>
+
+    <h1>Add a new subcategory:</h1>
+
+    <form method="post" asp-page-handler="AddSubCategory">
+        <label>Category name: </label>
+        <input asp-for="subCategory.SubCategoryName" /> <br></br>
+
+        <label>Category: </label>
+        <select asp-for="subCategory.CategoryId" asp-items="Model.categories">
+
+        </select><br></br>
+
+        <input type="submit" value="Submit" />
+
+
+    </form>
+</div>

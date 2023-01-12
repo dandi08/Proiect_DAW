@@ -17,7 +17,19 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW
 build_property._RazorSourceGeneratorDebug = 
 
+<<<<<<< HEAD
 [C:/Users/dandi08/Desktop/anul4/sem1/xdd/Proiect_DAW/ProiectDAW/Pages/AddNewsPage.cshtml]
+=======
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/AddExternalNewsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRXh0ZXJuYWxOZXdzUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/AddInternalNewsPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSW50ZXJuYWxOZXdzUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/AddNewsPage.cshtml]
+>>>>>>> Cristi
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTmV3c1BhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
@@ -53,6 +65,7 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvcG9zYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [C:/Users/dandi08/Desktop/anul4/sem1/xdd/Proiect_DAW/ProiectDAW/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -66,6 +79,21 @@ build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclJpZ2h0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/dandi08/Desktop/anul4/sem1/xdd/Proiect_DAW/ProiectDAW/Pages/_ViewImports.cshtml]
+=======
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/UserRights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclJpZ2h0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/_ViewImports.cshtml]
+>>>>>>> Cristi
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 

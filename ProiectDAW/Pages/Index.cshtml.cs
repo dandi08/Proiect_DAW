@@ -13,6 +13,10 @@ namespace ProiectDAW.Pages
         
         public List<News> News { get; set; }
         static public List<Category> Categories { get; set; }
+<<<<<<< HEAD
+=======
+
+>>>>>>> Cristi
         public IndexModel(ILogger<IndexModel> logger, NewsContext newsContext)
         {
             this.logger = logger;

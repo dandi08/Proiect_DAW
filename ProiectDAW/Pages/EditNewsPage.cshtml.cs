@@ -16,6 +16,10 @@ namespace ProiectDAW.Pages
         private readonly ILogger<EditNewsPageModel> logger;
         private readonly NewsContext newsContext;
         public int errorCode { get; set; }
+<<<<<<< HEAD
+=======
+
+>>>>>>> Cristi
         public EditNewsPageModel(ILogger<EditNewsPageModel> logger, NewsContext newsContext)
         {
             this.logger = logger;
@@ -35,8 +39,14 @@ namespace ProiectDAW.Pages
 
         public IActionResult OnPost()
         {
+<<<<<<< HEAD
             if (news.Writer == null || news.NewsTitle == null || news.NewsTitle == null || news.Lead == null || news.Body == null || news.NewsTitle == null)
                 return RedirectToPage("EditNewsPage", new { errorCode = 1 });
+=======
+            if (news.NewsTitle == null || news.Lead == null || news.Body == null)
+                return RedirectToPage("EditNewsPage", new { errorCode = 1 });
+            newsContext.Update(news);
+>>>>>>> Cristi
             newsContext.SaveChanges();
             return RedirectToPage("Index");
         }

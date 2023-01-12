@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "HKEF0q/Al0JI1VUjZ6PKX622kJ01ELAi63RvXXNAzIc=",
 =======
   "Hash": "9pzNvUJKD62HM6Gp2fwGQeJVFjrCi2hkq6LUNx2bFt4=",
@@ -12,6 +13,9 @@
 >>>>>>> b65e1ee40b2a3fe26399401f97e124d961128461
 =======
   "Hash": "9pzNvUJKD62HM6Gp2fwGQeJVFjrCi2hkq6LUNx2bFt4=",
+>>>>>>> Cristi
+=======
+  "Hash": "PXYeOhIi1LNnNm6lpQgqrOqUwjL3zZn2rXzgGT8X6kM=",
 >>>>>>> Cristi
   "Source": "ProiectDAW",
   "BasePath": "_content/ProiectDAW",
@@ -107,7 +111,28 @@
       "OriginalItemSpec": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProiectDAW.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\blurry-gradient-haikei.png",
+=======
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\blurry-gradient-haikei.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "blurry-gradient-haikei.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blurry-gradient-haikei.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\aside.css",
+>>>>>>> Cristi
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
@@ -422,7 +447,45 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css",
+=======
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/footer.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\footer.css"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/footer.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\footer.css.map"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\footer.scss",
+>>>>>>> Cristi
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
@@ -513,7 +576,113 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css",
+=======
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\forms.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/forms.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.css"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\forms.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/forms.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.css.map"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\forms.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/forms.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.scss"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/login.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css.map"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\login.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/login.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.scss"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\nav.css",
+>>>>>>> Cristi
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
@@ -749,7 +918,45 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css",
+=======
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/news.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\news.css"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/news.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\news.css.map"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\news.scss",
+>>>>>>> Cristi
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
@@ -840,7 +1047,62 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css",
+=======
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\proposals.css",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/proposals.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\proposals.css"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\proposals.css.map",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/proposals.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\proposals.css.map"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\proposals.scss",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "css/proposals.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\proposals.scss"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\css\\site.css",
+>>>>>>> Cristi
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
@@ -1111,8 +1373,182 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\images\\Captura.PNG",
+=======
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\3c4d483b-62eb-456e-a368-b45dad2eeea9-hiddenElement2.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/3c4d483b-62eb-456e-a368-b45dad2eeea9-hiddenElement2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\3c4d483b-62eb-456e-a368-b45dad2eeea9-hiddenElement2.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\4f6af385-96d9-4fac-88a5-6052eeca66e6-orar.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/4f6af385-96d9-4fac-88a5-6052eeca66e6-orar.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\4f6af385-96d9-4fac-88a5-6052eeca66e6-orar.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\7e872dd5-ad26-4295-b0c4-f32c9ef5fd11-hiddenElement1.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/7e872dd5-ad26-4295-b0c4-f32c9ef5fd11-hiddenElement1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\7e872dd5-ad26-4295-b0c4-f32c9ef5fd11-hiddenElement1.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\8a422523-239a-48e6-8289-a1ef2175101f-CARSHARING.png.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/8a422523-239a-48e6-8289-a1ef2175101f-CARSHARING.png.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\8a422523-239a-48e6-8289-a1ef2175101f-CARSHARING.png.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\ad93e995-feed-4aa1-b875-3667994c1128-hiddenElement1.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/ad93e995-feed-4aa1-b875-3667994c1128-hiddenElement1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ad93e995-feed-4aa1-b875-3667994c1128-hiddenElement1.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\c33544f3-37ec-4a5e-aedc-803815d980ed-hiddenElement1.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/c33544f3-37ec-4a5e-aedc-803815d980ed-hiddenElement1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\c33544f3-37ec-4a5e-aedc-803815d980ed-hiddenElement1.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\d5127613-7aa9-4b51-bff5-bc37084b7ada-hiddenElement1.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/d5127613-7aa9-4b51-bff5-bc37084b7ada-hiddenElement1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\d5127613-7aa9-4b51-bff5-bc37084b7ada-hiddenElement1.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\efc61f35-d3cf-4a23-8939-5a16ccfec1d4-CARSHARING.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/efc61f35-d3cf-4a23-8939-5a16ccfec1d4-CARSHARING.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\efc61f35-d3cf-4a23-8939-5a16ccfec1d4-CARSHARING.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\f8551e29-e312-4fd3-a02c-94c6da156bdc-hiddenElement2.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/f8551e29-e312-4fd3-a02c-94c6da156bdc-hiddenElement2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\f8551e29-e312-4fd3-a02c-94c6da156bdc-hiddenElement2.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\Images\\fd2a9ba0-3f27-45cc-a149-4241ca6f6325-hiddenElement1.png",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "Images/fd2a9ba0-3f27-45cc-a149-4241ca6f6325-hiddenElement1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\fd2a9ba0-3f27-45cc-a149-4241ca6f6325-hiddenElement1.png"
+    },
+    {
+      "Identity": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\wwwroot\\js\\site.js",
+>>>>>>> Cristi
       "SourceId": "ProiectDAW",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",

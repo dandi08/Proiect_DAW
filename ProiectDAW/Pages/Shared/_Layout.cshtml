@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using ProiectDAW.Pages
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -35,13 +37,33 @@
                                     <a class="nav-link" asp-area="" asp-page="/Index">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" asp-area="" asp-page="/Login">Login</a>
+                                    <a class="nav-link" asp-area="" asp-page="/AddNewsPage">Add news</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-route-errorCode="0" asp-area="" asp-page="/Login">Login</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-route-errorCode="0" asp-area="" asp-page="/SignUp">Sign Up</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" asp-area="" asp-page="/Proposal">Propose</a>
                                 </li>
+<<<<<<< HEAD
+=======
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-page="/UserRights">Edit users' rights</a>
+                                </li>
+>>>>>>> Cristi
                             </ul>
                         </div>
+                    </div>
+                    <div>
+                        @foreach (Models.Category category in Pages.IndexModel.Categories)
+                        {
+                            <div>
+                                <p>@category.CategoryName</p>
+                            </div>
+                        }
                     </div>
                 </nav>
 
