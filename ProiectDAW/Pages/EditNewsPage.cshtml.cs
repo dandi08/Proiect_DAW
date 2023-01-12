@@ -15,14 +15,14 @@ namespace ProiectDAW.Pages
         public List<SelectListItem> subcategories { get; set; }
         private readonly ILogger<EditNewsPageModel> logger;
         private readonly NewsContext newsContext;
-
+        public int errorCode { get; set; }
         public EditNewsPageModel(ILogger<EditNewsPageModel> logger, NewsContext newsContext)
         {
             this.logger = logger;
             this.newsContext = newsContext;
         }
 
-        public void OnGet(int NewsId)
+        public void OnGet(int NewsId, int errorCode)
         {
             news = newsContext.News.Include(news => news.SubCategory.Category).FirstOrDefault( x=> x.Id == NewsId);
             subcategories = newsContext.SubCategories.Select(x => new SelectListItem
@@ -30,11 +30,13 @@ namespace ProiectDAW.Pages
                 Value = x.Id.ToString(),
                 Text = x.SubCategoryName
             }).ToList();
+            this.errorCode = errorCode;
         }
 
         public IActionResult OnPost()
         {
-            newsContext.Update(news);
+            if (news.Writer == null || news.NewsTitle == null || news.NewsTitle == null || news.Lead == null || news.Body == null || news.NewsTitle == null)
+                return RedirectToPage("EditNewsPage", new { errorCode = 1 });
             newsContext.SaveChanges();
             return RedirectToPage("Index");
         }

@@ -1,27 +1,32 @@
 ﻿@page "{errorCode:int}"
-@model ProiectDAW.Pages.LoginModel
+@model ProiectDAW.Pages.SignUpModel
 @{
 }
 
-@*<form method="post">
-   <label>Username:</label>
-   <input asp-for="Account.Username" type="text" />
-   <br />
-   <label>Password:</label>
-   <input asp-for="Account.Password" type="password" />
-   <br />
-   <input type="submit" value="Login" />
-</form>*@
-
 <div class="container-login">
+	@if (Model.errorCode == 1)
+	{
+		<div class="alert">
+			<p>Passwords dont match</p>
+		</div>
+	}
+
+	@if (Model.errorCode == 2)
+	{
+		<div class="alert">
+			<p>Username is in use</p>
+		</div>
+	}
+
+	@if (Model.errorCode == 3)
+	{
+		<div class="alert">
+			<p>Username must contain a letter</p>
+		</div>
+	}
+
 	<div class="screen">
 		<div class="screen__content">
-			@if (Model.errorCode == 1)
-			{
-				<div class="alert">
-					<p>Wrong credentials!</p>
-				</div>
-			}
 			<form class="login" method="post">
 				<div class="login__field">
 					<i class="login__icon fas fa-user"></i>
@@ -29,7 +34,11 @@
 				</div>
 				<div class="login__field">
 					<i class="login__icon fas fa-lock"></i>
-					<input asp-for="Account.Password" type="password" class="login__input" placeholder="Password">
+					<input id = "firstPassword" asp-for="Account.Password" type="password" class="login__input" placeholder="Password">
+				</div>
+				<div class="login__field">
+					<i class="login__icon fas fa-lock"></i>
+					<input id = "secondPassword" asp-for="checkPassword" type="password" class="login__input" placeholder="Type password again">
 				</div>
 				<button class="button login__submit">
 					<span class="button__text">Log In Now</span>

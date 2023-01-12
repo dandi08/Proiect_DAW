@@ -10,7 +10,7 @@ namespace ProiectDAW.Pages
     {
         private readonly ILogger<IndexModel> logger;
         private readonly NewsContext newsContext;
-
+        
         public List<News> News { get; set; }
         static public List<Category> Categories { get; set; }
         public IndexModel(ILogger<IndexModel> logger, NewsContext newsContext)
@@ -19,7 +19,7 @@ namespace ProiectDAW.Pages
             this.newsContext = newsContext;
         }
 
-        public void OnGet()
+        public void OnGet(int errorCode)
         {
             News = this.newsContext.News.Include(news => news.SubCategory.Category).ToList();
             News = News.OrderByDescending(news => news.Date).ToList();

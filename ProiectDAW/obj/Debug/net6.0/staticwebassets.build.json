@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HKEF0q/Al0JI1VUjZ6PKX622kJ01ELAi63RvXXNAzIc=",
+  "Hash": "rR+D0RCpuP3goFv0DkCJh31f1pwFAxh4aOB+ZGb1rQ4=",
   "Source": "ProiectDAW",
   "BasePath": "_content/ProiectDAW",
   "Mode": "Default",
@@ -542,6 +542,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\images\\Captura.PNG",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "images/Captura.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Captura.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\js\\alert.js",
+      "SourceId": "ProiectDAW",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\",
+      "BasePath": "_content/ProiectDAW",
+      "RelativePath": "js/alert.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\alert.js"
     },
     {
       "Identity": "C:\\Users\\dandi08\\Desktop\\anul4\\sem1\\xdd\\Proiect_DAW\\ProiectDAW\\wwwroot\\js\\site.js",

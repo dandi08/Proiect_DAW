@@ -51,12 +51,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvcG9zYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dandi08/Desktop/anul4/sem1/xdd/Proiect_DAW/ProiectDAW/Pages/RightsControl.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmlnaHRzQ29udHJvbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/dandi08/Desktop/anul4/sem1/xdd/Proiect_DAW/ProiectDAW/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dandi08/Desktop/anul4/sem1/xdd/Proiect_DAW/ProiectDAW/Pages/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dandi08/Desktop/anul4/sem1/xdd/Proiect_DAW/ProiectDAW/Pages/UserRights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclJpZ2h0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/dandi08/Desktop/anul4/sem1/xdd/Proiect_DAW/ProiectDAW/Pages/_ViewImports.cshtml]
