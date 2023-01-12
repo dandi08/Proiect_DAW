@@ -3,55 +3,56 @@
 @{
     ViewData["Title"] = "Home page";
 }
-<div class="container-page">
-    <div class="proposal-wrapper">
-            <div class="container-form">
-                <h1 class="form__title">
-                    Your Proposal
-                </h1>
-                <div class="screen">
-                    <div class="screen__content">
-                        <form class="form" method="post">
-                            <div class="form__field">
-                                <i class="form__icon fas fa-user"></i>
-                                <input asp-for="proposal.Name" type="text" class="form__input" placeholder="Name">
-                            </div>
-                            <div class="form__field">
-                                <i class="form__icon fas fa-lock"></i>
-                                <input asp-for="proposal.ProposalBody" rows="2" type="text" class="form__input" placeholder="The topic of choice">
 
-                            </div>
-                            <input type="submit" value="Save" class="button form__submit" />
-                        </form>
+<div class="proposal-wrapper">
+    
+
+        <div class="container-form">
+            <h1 class="form__title">
+                Your Proposal
+            </h1>
+            <div class="screen">
+                <div class="screen__content">
+                    <form class="form" method="post" id="form-propose">
+                        <div class="form__field">
+                            <i class="form__icon fas fa-user"></i>
+                            <input asp-for="proposal.Name" type="text" class="form__input" placeholder="Name">
+                        </div>
+                        <div class="form__field">
+                            <i class="form__icon fas fa-lock"></i>
+                            <textarea asp-for="proposal.ProposalBody" rows="3" form="form-propose" placeholder="The topic of choice"></textarea>
+                            
+                        </div>
+                        <input type="submit" value="Save" class="button form__submit" />
+                    </form>
+                </div>
+                <div class="screen__background">
+                    <span class="screen__background__shape screen__background__shape4"></span>
+                    <span class="screen__background__shape screen__background__shape3"></span>
+                    <span class="screen__background__shape screen__background__shape2"></span>
+                    <span class="screen__background__shape screen__background__shape1"></span>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="container-proposal">
+            <div class="row justify-content-center" style="width: 100%;">
+                <div class="col-md-8">
+                    <div class="page-header">
+                        <h1 style="border-bottom: 1px solid gray;"><small class="pull-right">@Model.Prop.Count proposals</small></h1>
                     </div>
-                    <div class="screen__background">
-                        <span class="screen__background__shape screen__background__shape4"></span>
-                        <span class="screen__background__shape screen__background__shape3"></span>
-                        <span class="screen__background__shape screen__background__shape2"></span>
-                        <span class="screen__background__shape screen__background__shape1"></span>
+                    <div class="media">
+                        <div class="media-body">
+                            @foreach (Models.Proposals prop in @Model.Prop)
+                            {
+                                <h4 class="media-heading user_name"> @prop.Name proposed: </h4>
+                                <p>@prop.ProposalBody</p>
+                            }
+                        </div>
                     </div>
                 </div>
             </div>
-
-
-
-            <div class="container-proposal">
-                <div class="row justify-content-center" style="width: 100%;">
-                    <div class="col-md-8">
-                        <div class="page-header">
-                            <h1 style="border-bottom: 1px solid gray;"><small class="pull-right">@Model.Prop.Count proposals</small></h1>
-                        </div>
-                        <div class="media">
-                            <div class="media-body">
-                                @foreach (Models.Proposals prop in @Model.Prop)
-                                {
-                                    <h4 class="media-heading user_name"> @prop.Name proposed: </h4>
-                                    <p>@prop.ProposalBody</p>
-                                }
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-    </div>
+        </div>
 </div>

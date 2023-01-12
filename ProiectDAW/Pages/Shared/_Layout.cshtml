@@ -1,5 +1,4 @@
 ﻿@using ProiectDAW.Pages
-@using ProiectDAW.Models
 
 <!DOCTYPE html>
 <html lang="en">
@@ -32,54 +31,36 @@
                         <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                             <ul class="navbar-nav flex-grow-1">
                                 <li class="nav-item">
+                                    <a class="nav-link" asp-area="" asp-page="/Index">ProiectDAW</a>
+                                </li>
+                                <li class="nav-item">
                                     <a class="nav-link" asp-area="" asp-page="/Index">Home</a>
                                 </li>
-                                @if (@LoggingSystem.GetInstance().Account != null && @LoggingSystem.GetInstance().Account.TypeId == 2)
-                                {
                                 <li class="nav-item">
                                     <a class="nav-link" asp-area="" asp-page="/AddNewsPage">Add news</a>
-                                </li> 
-                                }
-                                @if (@LoggingSystem.GetInstance().Account == null)
-                                {
+                                </li>
                                 <li class="nav-item">
                                     <a class="nav-link" asp-route-errorCode="0" asp-area="" asp-page="/Login">Login</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" asp-route-errorCode="0" asp-area="" asp-page="/SignUp">Sign Up</a>
-                                </li> 
-                                }
+                                </li>
                                 <li class="nav-item">
                                     <a class="nav-link" asp-area="" asp-page="/Proposal">Propose</a>
                                 </li>
-                                @if (@LoggingSystem.GetInstance().Account != null)
-                                {
                                 <li class="nav-item">
-                                    <a class="nav-link" asp-area="" asp-page="/UserProfile">UserProfile</a>
-                                </li>
-                                }
-                                @if (@LoggingSystem.GetInstance().Account != null && @LoggingSystem.GetInstance().Account.TypeId == 1)
-                                {
-                                <li class="nav-item">
-                                    <a class="nav-link" asp-area="" asp-page="/UserRights">User rights</a>
-                                </li>  
-                                }
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link" asp-area="">Categorii</a>
-                                    <ul class="nav-category dropdown-content">
-                                        @foreach (Models.Category category in Pages.IndexModel.Categories)
-                                        {
-                                            if (category.CategoryName != "External")
-                                            {
-                                             <li class="category-item">
-                                                <a asp-area="" asp-route-CategoryId="@category.Id" asp-page="/NewsByCategory">@category.CategoryName</a>
-                                            </li>   
-                                            }  
-                                        }
-                                    </ul>
+                                    <a class="nav-link" asp-area="" asp-page="/UserRights">Edit users' rights</a>
                                 </li>
                             </ul>
                         </div>
+                    </div>
+                    <div>
+                        @foreach (Models.Category category in Pages.IndexModel.Categories)
+                        {
+                            <div>
+                                <p>@category.CategoryName</p>
+                            </div>
+                        }
                     </div>
                 </nav>
 

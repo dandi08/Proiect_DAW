@@ -9,7 +9,7 @@ namespace ProiectDAW.Pages
 {
     public class UserRightsModel : PageModel
     {
-        public static int userId = 3;
+        public static int userId = 1;
         public static int editorId = 2;
 
         [BindProperty]
@@ -29,7 +29,6 @@ namespace ProiectDAW.Pages
         public void OnGet()
         {
             accounts = this.newsContext.Accounts.Include(account => account.Type).ToList();
-            accounts = accounts.Where(x => x.TypeId != 1).ToList();
             accounts = accounts.OrderByDescending(account => account.Username).ToList();
         }
 

@@ -3,102 +3,70 @@
 @{
 }
 
-<div class="container-page">
-    <div class="container-form">
-        <div class="screen">
-            <div class="screen__content">
-                @if (Model.errorCode == 1)
-                {
-                    <div>
-                        <p>Fields can not be empty!</p>
-                    </div>
-                }
-
-                <form class="form" method="post" id="form-1">
-                    <div class="form__field">
-                        <i class="form__icon fas fa-user"></i>
-                        <input asp-for="news.NewsTitle" type="text" class="form__input" placeholder="Title">
-                    </div>
-                    <div class="form__field">
-                        <i class="form__icon fas fa-lock"></i>
-                        <input asp-for="news.Lead" type="text" class="form__input" placeholder="Lead">
-                    </div>
-                    <div class="form__field">
-                        <i class="form__icon fas fa-lock"></i>
-                        <input asp-for="news.Writer" type="text" class="form__input" placeholder="Writer">
-                    </div>
-                    <div class="form__field">
-                        <i class="form__icon fas fa-lock"></i>
-                        <input asp-for="news.Body" type="text" class="form__input" placeholder="Body">
-                    </div>
-
-
-                    <label>Subcategory: </label>
-                    <select asp-for="news.SubCategoryId" asp-items="Model.subcategories">
-                    </select>
-                    <label>Date: </label>
-                    <input asp-for="news.Date" /><br></br>
-                    <div class="form-control">
-                        <label asp-for="Image" class="control-label"></label>
-                        <input asp-for="Image" class="form-control" />
-                        <span asp-validation-for="Image" class="text-danger"></span>
-                    </div>
-
-
-                    <button class="button form__submit" form="form-1">
-                        <span class="button__text">Submit news</span>
-                        <i class="button__icon fas fa-chevron-right"></i>
-                    </button>
-                    <button class="button form__submit" asp-page="\Index">
-                        <span class="button__text">Cancel </span>
-                        <i class="button__icon fas fa-chevron-right"></i>
-                    </button>
-
-                </form>
-            </div>
-            <div class="screen__background">
-                <span class="screen__background__shape screen__background__shape4"></span>
-                <span class="screen__background__shape screen__background__shape3"></span>
-                <span class="screen__background__shape screen__background__shape2"></span>
-                <span class="screen__background__shape screen__background__shape1"></span>
-            </div>
+<div>
+    @if (Model.errorCode == 1)
+    {
+        <div>
+            <p>Fields can not be empty!</p>
         </div>
-    </div>
-    <div>
-        @if (Model.errorCode == 1)
-        {
-            <div>
-                <p>Fields can not be empty!</p>
+    }
+
+    <h1>Add your news below:</h1>
+
+    <form method="post" id="form-body-addIntern" enctype="multipart/form-data" asp-page-handler="AddInternalNews" >
+        <label>Title: </label>
+        <input asp-for="news.NewsTitle" /> <br></br>
+
+        <label>Lead: </label>
+        <input asp-for="news.Lead" /><br></br>
+
+        <label>Writer: </label>
+        <input asp-for="news.Writer" /><br></br>
+
+        <label>The body: </label><br />
+        <textarea asp-for="news.Body" rows="3" form="form-body-addIntern" placeholder="The Story ..."></textarea>
+        <br></br>
+
+        <label>Subcategory: </label>
+        <select asp-for="news.SubCategoryId" asp-items="Model.subcategories">
+            
+        </select>
+        <br></br>
+        <label>Date: </label>
+        <input asp-for="news.Date" /><br></br>
+            <div class="form-control">
+                <label asp-for="Image" class="control-label"></label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
             </div>
-        }
+        <input type="submit" value="Submit" />
+        <button><a asp-page="\Index">Cancel </a></button>
+
+    </form>
+
         <h1>Add a new category:</h1>
 
-        <form method="post" asp-page-handler="AddCategory" id="form-2">
-            <label>Subcategory name: </label>
-            <input asp-for="category.CategoryName" />
+    <form method="post" asp-page-handler="AddCategory">
+        <label>Subcategory name: </label>
+        <input asp-for="category.CategoryName" /> <br></br>
 
-            <button type="submit" value="Submit" class="button form__submit" form="form-2">
-                <span class="button__text">Submit</span>
-                <i class="button__icon fas fa-chevron-right"></i>
-            </button>
-        </form>
+        <input type="submit" value="Submit" />
 
-        <h1>Add a new subcategory:</h1>
+    </form>
 
-        <form method="post" asp-page-handler="AddSubCategory" id="form-3">
-            <label>Category name: </label>
-            <input asp-for="subCategory.SubCategoryName" /> <br></br>
+    <h1>Add a new subcategory:</h1>
 
-            <label>Category: </label>
-            <select asp-for="subCategory.CategoryId" asp-items="Model.categories">
-            </select>
+    <form method="post" asp-page-handler="AddSubCategory">
+        <label>Category name: </label>
+        <input asp-for="subCategory.SubCategoryName" /> <br></br>
 
-            <button type="submit" value="Submit" class="button form__submit" form="form-3">
-                <span class="button__text">Submit</span>
-                <i class="button__icon fas fa-chevron-right"></i>
-            </button>
+        <label>Category: </label>
+        <select asp-for="subCategory.CategoryId" asp-items="Model.categories">
+
+        </select><br></br>
+
+        <input type="submit" value="Submit" />
 
 
-        </form>
-    </div>
+    </form>
 </div>

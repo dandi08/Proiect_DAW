@@ -1,15 +1,15 @@
-﻿@page 
+﻿@page
 @using ProiectDAW.Models
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
 }
-<div class="container justify-content-between">
+<div class="container">
     <main role="main" class="pb-3 main-container">
     <div class="catalog">
         @foreach (Models.News news in Model.News)
         {
-                @if (news.SubCategory.CategoryId!=1)
+                @if (news.SubCategory.CategoryId != 1)
                 {
                    <div class="text-center catalog-item">
                 @if (Model.News.First() == news) {
@@ -61,6 +61,11 @@
                 }
                 
         }
+    </div>
+
+    <div class="center">
+        <p>Do you want to add new news?</p>
+        <button><a asp-page="\AddNewsPage">Yes </a></button>
     </div>
 
     @if (@LoggingSystem.GetInstance().Account == null)

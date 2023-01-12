@@ -4158,11 +4158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crisi\\Desktop\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
+      "projectUniqueName": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
       "projectName": "ProiectDAW",
-      "projectPath": "C:\\Users\\crisi\\Desktop\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
+      "projectPath": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
       "packagesPath": "C:\\Users\\crisi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crisi\\Desktop\\Proiect_DAW\\ProiectDAW\\obj\\",
+      "outputPath": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crisi\\AppData\\Roaming\\NuGet\\NuGet.Config",

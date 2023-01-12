@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oGNxodOp1uSJMbPxHpMaG1ZMTYNWRWNWPX4fXlhncKi3ZEZxGemxsBVT7X4/uCmrzmFcgmfbwtIsbacvAxKT5g==",
+  "dgSpecHash": "2Yf9GzoRVfWLBEZnkv1MBFZE50u7Q+8fCUNBiJNyu6rvBuYt8vES4R2kbijLKHaJ/aD8Nm3416KxFvdgIsWemQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crisi\\Desktop\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
+  "projectFilePath": "D:\\Facultate\\Anul 4\\Dezvoltare Web\\Proiect_DAW\\ProiectDAW\\ProiectDAW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crisi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\crisi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -8,89 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProiectDAW
 build_property.RootNamespace = ProiectDAW
-build_property.ProjectDir = C:\Users\crisi\Desktop\Proiect_DAW\ProiectDAW\
+build_property.ProjectDir = D:\Facultate\Anul 4\Dezvoltare Web\Proiect_DAW\ProiectDAW\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\crisi\Desktop\Proiect_DAW\ProiectDAW
+build_property.MSBuildProjectDirectory = D:\Facultate\Anul 4\Dezvoltare Web\Proiect_DAW\ProiectDAW
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/AddExternalNewsPage.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/AddExternalNewsPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRXh0ZXJuYWxOZXdzUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/AddInternalNewsPage.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/AddInternalNewsPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkSW50ZXJuYWxOZXdzUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/AddNewsPage.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/AddNewsPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTmV3c1BhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/DeleteNewsPage.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/DeleteNewsPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlTmV3c1BhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/EditNewsPage.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/EditNewsPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE5ld3NQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/Error.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/Index.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/Login.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/NewsByCategory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0J5Q2F0ZWdvcnkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/NewsPage.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/NewsPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1BhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/Privacy.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/Proposal.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/Proposal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvcG9zYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/RightsControl.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmlnaHRzQ29udHJvbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/SignUp.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/UserProfile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclByb2ZpbGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/UserRights.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/UserRights.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclJpZ2h0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/_ViewImports.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/_ViewStart.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/crisi/Desktop/Proiect_DAW/ProiectDAW/Pages/Shared/_Layout.cshtml]
+[D:/Facultate/Anul 4/Dezvoltare Web/Proiect_DAW/ProiectDAW/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-032ene3qk6

@@ -51,41 +51,4 @@
 
     }
 }
-.dropdown {
-    position: relative;
-
-    &:hover {
-        .dropdown-content {
-            display: block;
-        }
-    }
-}
-
-.dropdown-content {
-    position: absolute;
-    background-color: $gray-200;
-    display: none;
-    list-style-type: none;
-    transition: all .25s ease-in-out;
-    padding-left: .5rem;
-    min-width: 6rem;
-
-    & > li {
-        &:last-child {
-            margin-bottom: 1rem;
-        }
-    }
-
-    & > li > a {
-        border-bottom: 1px solid $gray-500;
-        font-size: 1.25rem;
-        padding: .25rem;
-    }
-
-    & > li > a:hover {
-        color: $primary !important;
-        padding-left: 10px;
-        transition: all 0.3s ease;
-    }
-}
 

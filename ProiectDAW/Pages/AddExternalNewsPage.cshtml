@@ -13,7 +13,7 @@
 
     <h1>Add your news below:</h1>
 
-    <form method="post" id="form-external" enctype="multipart/form-data" asp-page-handler="AddExternalNews" >
+    <form method="post" id="form-body-add" enctype="multipart/form-data" asp-page-handler="AddExternalNews" >
         <label>Title: </label>
         <input asp-for="news.NewsTitle" /> <br></br>
 
@@ -21,10 +21,12 @@
         <input asp-for="news.Lead" /><br></br>
 
         <label>The body: </label><br />
-        <textarea asp-for="news.Body" form="form-external" placeholder="Link of the news..."></textarea><br></br>
+        <textarea asp-for="news.Body" rows="3" form="form-body-add" placeholder="The Story ..."></textarea>
+        <br></br>
 
         <label>Refference Link: </label>
         <input asp-for="news.RefferenceLink" /><br></br>
+
 
 
         </select>
