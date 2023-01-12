@@ -31,13 +31,12 @@ namespace ProiectDAW.Pages
         public void OnGet(int errorCode)
         {
             news = new News();
-            
             this.errorCode=errorCode;
         }
         [HttpPost]
         public IActionResult OnPostAddExternalNews()
         {
-            news.SubCategoryId=2007;
+            news.SubCategoryId = 2007;
             if (news.NewsTitle == null || news.Body == null)
                 return RedirectToPage("AddExternalNewsPage", new { NewsId = news.Id, errorCode = 1 });
             string fileName = null;
