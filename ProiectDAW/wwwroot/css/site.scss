@@ -9,12 +9,9 @@
 @import 'aside.scss';
 @import 'catalog.scss';
 @import 'login.scss';
-<<<<<<< HEAD
-=======
 @import 'forms.scss';
 @import 'proposals.scss';
 @import 'news.scss';
->>>>>>> Cristi
 
 * {
   font-family: Lato;    
@@ -23,12 +20,6 @@
   padding: 0;
 }
 
-<<<<<<< HEAD
-body {
-  background-image: url('../blurry-gradient-haikei.png')!important;
-
-  background-size: 100%;
-=======
 .container-page {
   max-width: 960px;
   margin-left: auto;
@@ -37,7 +28,6 @@ body {
 
 body {
 	background: linear-gradient(90deg, #C7C5F4, #776BCC);		
->>>>>>> Cristi
 }
 
 a {
@@ -71,26 +61,11 @@ img {
   border-radius: 3%;
 }
 
-img {
-  border-radius: 3%;
-}
-
 ::marker {
     color: $primary;
 }
 
 .category {
-<<<<<<< HEAD
-    &::before {
-      content: "a";
-      background-color: $red;
-      /* 
-        width: 2px;
-        height: 80%;
-        margin-right: 5px;
-
-        display: inline-block; */
-=======
     display: flex;
     justify-content: center;
     align-items: center;
@@ -106,7 +81,6 @@ img {
       margin-right: 5px;
 
       display: inline-block;
->>>>>>> Cristi
     }
 }
 
@@ -141,8 +115,6 @@ img {
   width: 100%;
   height: auto;
   max-height: 300px;
-<<<<<<< HEAD
-=======
 }
 
 /* CSS */
@@ -216,5 +188,4 @@ img {
 
 .button-19:hover {
   color: $white;
->>>>>>> Cristi
 }

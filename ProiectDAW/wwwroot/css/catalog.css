@@ -20,10 +20,7 @@ article {
 }
 .catalog-item__content > a {
   text-decoration: none;
-<<<<<<< HEAD
-=======
   text-align: start;
->>>>>>> Cristi
 }
 .catalog-item__content--title {
   color: #343a40;
@@ -33,8 +30,6 @@ article {
 .catalog-item__content--description {
   color: #495057;
 }
-<<<<<<< HEAD
-=======
 .catalog-item__content--data {
   display: flex;
   align-items: center;
@@ -47,7 +42,6 @@ article {
   fill: #adb5bd;
   width: 1rem;
 }
->>>>>>> Cristi
 
 .catalog {
   display: grid;

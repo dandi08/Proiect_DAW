@@ -5,15 +5,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
-<<<<<<< HEAD
-.container {
-=======
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://fonts.googleapis.com/css?family=Lato);
 @import url(https://fonts.googleapis.com/css?family=Lato);
 .container {
   max-width: 960px;
->>>>>>> Cristi
   padding-top: 1rem;
   background-color: #fff;
   display: flex;
@@ -133,13 +129,10 @@ svg {
 
 .article__content {
   margin-left: 1rem;
-<<<<<<< HEAD
-=======
   height: 100%;
   justify-content: space-between;
   display: flex;
   flex-direction: column;
->>>>>>> Cristi
 }
 .article__content > * {
   text-decoration: none;
@@ -171,10 +164,7 @@ article {
 }
 .catalog-item__content > a {
   text-decoration: none;
-<<<<<<< HEAD
-=======
   text-align: start;
->>>>>>> Cristi
 }
 .catalog-item__content--title {
   color: #343a40;
@@ -184,8 +174,6 @@ article {
 .catalog-item__content--description {
   color: #495057;
 }
-<<<<<<< HEAD
-=======
 .catalog-item__content--data {
   display: flex;
   align-items: center;
@@ -198,7 +186,6 @@ article {
   fill: #adb5bd;
   width: 1rem;
 }
->>>>>>> Cristi
 
 .catalog {
   display: grid;
@@ -240,23 +227,12 @@ article {
   font-family: Raleway, sans-serif;
 }
 
-<<<<<<< HEAD
-body {
-  background: linear-gradient(90deg, #C7C5F4, #776BCC);
-}
-
-.container-login {
-=======
 .container-form {
->>>>>>> Cristi
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-<<<<<<< HEAD
-=======
   flex-direction: column;
->>>>>>> Cristi
 }
 
 .screen {
@@ -265,10 +241,7 @@ body {
   height: 600px;
   width: 360px;
   box-shadow: 0px 0px 24px #5C5696;
-<<<<<<< HEAD
-=======
   margin-top: 1rem;
->>>>>>> Cristi
 }
 
 .screen__content {
@@ -329,40 +302,24 @@ body {
   border-radius: 60px;
 }
 
-<<<<<<< HEAD
-.login {
-=======
 .form {
->>>>>>> Cristi
   width: 320px;
   padding: 30px;
   padding-top: 156px;
 }
 
-<<<<<<< HEAD
-.login__field {
-=======
 .form__field {
->>>>>>> Cristi
   padding: 20px 0px;
   position: relative;
 }
 
-<<<<<<< HEAD
-.login__icon {
-=======
 .form__icon {
->>>>>>> Cristi
   position: absolute;
   top: 30px;
   color: #7875B5;
 }
 
-<<<<<<< HEAD
-.login__input {
-=======
 .form__input {
->>>>>>> Cristi
   border: none;
   border-bottom: 2px solid #D1D1D4;
   background: none;
@@ -371,29 +328,17 @@ body {
   font-weight: 700;
   width: 75%;
   transition: 0.2s;
-<<<<<<< HEAD
-}
-
-.login__input:active,
-.login__input:focus,
-.login__input:hover {
-=======
   font-size: 1rem;
 }
 
 .form__input:active,
 .form__input:focus,
 .form__input:hover {
->>>>>>> Cristi
   outline: none;
   border-bottom-color: #6A679E;
 }
 
-<<<<<<< HEAD
-.login__submit {
-=======
 .form__submit {
->>>>>>> Cristi
   background: #fff;
   font-size: 14px;
   margin-top: 30px;
@@ -411,15 +356,9 @@ body {
   transition: 0.2s;
 }
 
-<<<<<<< HEAD
-.login__submit:active,
-.login__submit:focus,
-.login__submit:hover {
-=======
 .form__submit:active,
 .form__submit:focus,
 .form__submit:hover {
->>>>>>> Cristi
   border-color: #6A679E;
   outline: none;
 }
@@ -430,11 +369,7 @@ body {
   color: #7875B5;
 }
 
-<<<<<<< HEAD
-.social-login {
-=======
 .social-form {
->>>>>>> Cristi
   position: absolute;
   height: 140px;
   width: 160px;
@@ -450,23 +385,13 @@ body {
   justify-content: center;
 }
 
-<<<<<<< HEAD
-.social-login__icon {
-=======
 .social-form__icon {
->>>>>>> Cristi
   padding: 20px 10px;
   color: #fff;
   text-decoration: none;
   text-shadow: 0px 0px 8px #7875B5;
 }
 
-<<<<<<< HEAD
-.social-login__icon:hover {
-  transform: scale(1.5);
-}
-
-=======
 .social-form__icon:hover {
   transform: scale(1.5);
 }
@@ -535,7 +460,6 @@ body {
   padding: 10px;
 }
 
->>>>>>> Cristi
 * {
   font-family: Lato;
   transition: all 0.25s ease-in-out;
@@ -543,11 +467,6 @@ body {
   padding: 0;
 }
 
-<<<<<<< HEAD
-body {
-  background-image: url("../blurry-gradient-haikei.png") !important;
-  background-size: 100%;
-=======
 .container-page {
   max-width: 960px;
   margin-left: auto;
@@ -556,7 +475,6 @@ body {
 
 body {
   background: linear-gradient(90deg, #C7C5F4, #776BCC);
->>>>>>> Cristi
 }
 
 a {
@@ -588,10 +506,6 @@ img {
   border-radius: 3%;
 }
 
-img {
-  border-radius: 3%;
-}
-
 ::marker {
   color: #20c997;
 }
@@ -604,14 +518,12 @@ img {
   font-size: 0.875rem;
 }
 .category::before {
-  content: "a";
+  content: "";
   background-color: #dc3545;
-  /* 
-    width: 2px;
-    height: 80%;
-    margin-right: 5px;
-
-    display: inline-block; */
+  width: 2px;
+  height: 80%;
+  margin-right: 5px;
+  display: inline-block;
 }
 
 .content {
@@ -642,8 +554,6 @@ img {
   width: 100%;
   height: auto;
   max-height: 300px;
-<<<<<<< HEAD
-=======
 }
 
 /* CSS */
@@ -723,5 +633,4 @@ img {
 
 .button-19:hover {
   color: #fff;
->>>>>>> Cristi
 }/*# sourceMappingURL=site.css.map */

@@ -443,6 +443,7 @@ C:\Users\User\Documents\GitHub\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\NaCl.dll
 C:\Users\User\Documents\GitHub\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\User\Documents\GitHub\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\PusherServer.dll
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.csproj.AssemblyReference.cache
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\obj\Debug\net6.0\ProiectDAW.AssemblyInfoInputs.cache
@@ -573,3 +574,5 @@ C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\Microsoft.VisualBasic.Activities.Compiler.dll
 C:\Users\dandi08\Desktop\anul4\sem1\xdd\Proiect_DAW\ProiectDAW\bin\Debug\net6.0\System.EnterpriseServices.Wrapper.dll
 >>>>>>> b65e1ee40b2a3fe26399401f97e124d961128461
+=======
+>>>>>>> Cristi

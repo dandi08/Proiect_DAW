@@ -1,6 +1,4 @@
-﻿@using ProiectDAW.Pages
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -45,14 +43,6 @@
                             </ul>
                         </div>
                     </div>
-                    <div>
-                        @foreach (Models.Category category in Pages.IndexModel.Categories)
-                        {
-                            <div>
-                                <p>@category.CategoryName</p>
-                            </div>
-                        }
-                    </div>
                 </nav>
 
                 @* Search bar *@
@@ -88,21 +78,12 @@
             </div>
         </div>
     </header>
-<<<<<<< HEAD
-    <div class="container">
-        @RenderBody()
-    </div>
-
-    <footer class="footer">
-        <div class="container">
-=======
     <div>
         @RenderBody()
     </div>
 
     @*<footer class="footer1">
         <div class="footer__container">
->>>>>>> Cristi
             &copy; 2023 - ProiectDAW - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>*@
